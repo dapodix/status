@@ -1,7 +1,7 @@
 - url: https://ptk.datadik.kemdikbud.go.id
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-21T21:28:11.674Z
+- status: up
+- code: 200
+- responseTime: 1065
+- lastUpdated: 2020-11-21T21:35:02.050Z
 - startTime: 2020-11-21T13:46:28.366Z
 - generator: Upptime <https://github.com/upptime/upptime>
