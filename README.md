@@ -2,7 +2,7 @@
 
 <!--start: description-->
 
-Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
+Repo ini untuk memonitoring website dapodik.
 
 <!--end: description-->
 
