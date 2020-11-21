@@ -43,9 +43,9 @@
     "name": "Portal BOS",
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 1349
+    "status": "down",
+    "uptime": "99.70",
+    "time": 1012
   },
   {
     "name": "PMP Dikdasmen",
