@@ -1,34 +1,110 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: dapodix # Your GitHub username
+repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Dapo Kemdikbud
+    url: https://dapo.kemdikbud.go.id/
+  - name: Manajemen Dapodik
+    url: https://datadik.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: SP Datadik
+    url: https://sp.datadik.kemdikbud.go.id/
+  - name: PTK Datadik
+    url: https://ptk.datadik.kemdikbud.go.id
+  - name: SSO Datadik
+    url: https://sso.datadik.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: Portal BOS
+    url: https://bos.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: PMP Dikdasmen
+    url: http://pmp.kemdikbud.go.id/
+  - name: Pusdatin
+    url: https://pusdatin.kemdikbud.go.id/
+  - name: Pemetaan Mutu PAUD
+    url: https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: Verval SP
+    url: http://vervalsp.data.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: CDN Dapodik
+    url: https://cdn-dapodik.kemdikbud.go.id/
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  name: Status Web Dapodik - Kemdikbud
+  baseUrl: /status
+  logoUrl: https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_of_Ministry_of_Education_and_Culture_of_Republic_of_Indonesia.svg
+  introTitle: "**Dapodik** adalah acuan data yang digunakan oleh [Kemdikbud](https://www.kemdikbud.go.id/)."
+  introMessage: Halaman ini berfungsi untuk memonitor website yang berhubungan dengan [Dapodik](https://dapo.kemdikbud.go.id/) dan [Kemdikbud](https://www.kemdikbud.go.id/)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  activeIncidents: Insiden Aktif
+  allSystemsOperational: Semua sistem beroperasi
+  incidentReport: "Laporan insiden #$NUMBER →"
+  activeIncidentSummary: Dibuka pada $DATE dengan $POSTS postingan
+  incidentTitle: Detail Insiden $NUMBER
+  incidentDetails: Detail Insiden
+  incidentFixed: Diperbaiki
+  incidentOngoing: Sedang berlangsung
+  incidentOpenedAt: Dibuka pada
+  incidentClosedAt: Ditutup pada
+  incidentSubscribe: Berlangganan Pembaruan
+  incidentViewOnGitHub: Lihat di GitHub
+  incidentCommentSummary: Diposting pada $DATE oleh $AUTHOR
+  incidentBack: ← Kembali ke semua insiden
+  pastIncidents: Insiden Masa Lalu
+  pastIncidentsResolved: Diselesaikan dalam $MINUTES menit dengan $POSTS postingan
+  liveStatus: Status Langsung
+  overallUptime: Uptime keseluruhan $UPTIME%
+  overallUptimeTitle: Uptime keseluruhan
+  averageResponseTime: Waktu respons rata-rata $TIMEms
+  averageResponseTimeTitle: Respon rata-rata
+  sevelDayResponseTime: Waktu respons 7 hari
+  responseTimeMs: Waktu respons (ms)
+  up: Aktif
+  down: Non-aktif
+  ms: ms
+  loading: Loading
+  navGitHub: GitHub
+  footer: Halaman ini [open source]($REPO), dikembangkan oleh [Habib Rohman](https://github.com/hexatester) dengan menggunakan [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Batas tarif terlampaui
+  rateLimitExceededIntro: Anda telah melebihi jumlah permintaan yang dapat Anda lakukan dalam satu jam, jadi Anda harus menunggu sebelum mengakses situs web ini lagi. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub untuk terus menggunakan situs web ini.
+  rateLimitExceededWhatDoesErrorMean: Apa arti kesalahan ini?
+  rateLimitExceededErrorMeaning: Situs web ini menggunakan API GitHub untuk mengakses data waktu nyata tentang status situs web kami. Secara default, GitHub mengizinkan setiap alamat IP 60 permintaan per jam, yang telah Anda gunakan.
+  rateLimitExceededErrorHowCanFix: Bagaimana cara memperbaikinya?
+  rateLimitExceededErrorFix: Anda dapat menunggu satu jam lagi dan batas alamat IP Anda akan dipulihkan. Sebagai alternatif, Anda dapat menambahkan Token Akses Pribadi GitHub Anda, yang memberi Anda 5.000 permintaan tambahan per jam.
+  rateLimitExceededGeneratePAT: Pelajari cara membuat Token Akses Pribadi
+  rateLimitExceededHasSet: Anda memiliki set token akses pribadi.
+  rateLimitExceededRemoveToken: Hapus token
+  rateLimitExceededGitHubPAT: Token Akses Pribadi GitHub
+  rateLimitExceededCopyPastePAT: Salin dan tempel token Anda
+  rateLimitExceededSaveToken: Simpan token
+  errorTitle: Terjadi kesalahan
+  errorIntro: Terjadi kesalahan saat mencoba mendapatkan detail status terbaru.
+  errorText: Anda dapat mencoba lagi dalam beberapa saat.
+  errorHome: Buka beranda
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
