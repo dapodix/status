@@ -4,8 +4,8 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "98.93%",
-    "time": 2074
+    "uptime": "98.98%",
+    "time": 2171
   },
   {
     "name": "Manajemen Dapodik",
@@ -27,9 +27,9 @@
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
-    "uptime": "93.39%",
-    "time": 4207
+    "status": "down",
+    "uptime": "93.66%",
+    "time": 3944
   },
   {
     "name": "SSO Datadik",
@@ -44,8 +44,8 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "99.20%",
-    "time": 1155
+    "uptime": "99.24%",
+    "time": 1220
   },
   {
     "name": "PMP Dikdasmen",
@@ -53,7 +53,7 @@
     "slug": "pmp-dikdasmen",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1728
+    "time": 1582
   },
   {
     "name": "Pusdatin",
@@ -61,7 +61,7 @@
     "slug": "pusdatin",
     "status": "down",
     "uptime": "0.03%",
-    "time": 13985
+    "time": 13761
   },
   {
     "name": "Pemetaan Mutu PAUD",
@@ -69,15 +69,15 @@
     "slug": "pemetaan-mutu-paud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2339
+    "time": 2181
   },
   {
     "name": "Verval SP",
     "url": "http://vervalsp.data.kemdikbud.go.id/",
     "slug": "verval-sp",
     "status": "up",
-    "uptime": "99.76%",
-    "time": 2060
+    "uptime": "99.77%",
+    "time": 1926
   },
   {
     "name": "CDN Dapodik",
@@ -85,6 +85,6 @@
     "slug": "cdn-dapodik",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3422
+    "time": 2713
   }
 ]
