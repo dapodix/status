@@ -3,16 +3,16 @@
     "name": "Dapo Kemdikbud",
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
-    "status": "down",
-    "uptime": "99.90",
-    "time": 2596
+    "status": "up",
+    "uptime": "100.00",
+    "time": 2622
   },
   {
     "name": "Manajemen Dapodik",
     "url": "https://datadik.kemdikbud.go.id/",
     "slug": "manajemen-dapodik",
     "status": "down",
-    "uptime": "0.01",
+    "uptime": "0.00",
     "time": 0
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://sso.datadik.kemdikbud.go.id/",
     "slug": "sso-datadik",
     "status": "down",
-    "uptime": "0.00",
+    "uptime": "0.01",
     "time": 0
   },
   {
