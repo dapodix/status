@@ -36,7 +36,7 @@
     "url": "https://sso.datadik.kemdikbud.go.id/",
     "slug": "sso-datadik",
     "status": "down",
-    "uptime": "0.01",
+    "uptime": "0.00",
     "time": 0
   },
   {
@@ -60,7 +60,7 @@
     "url": "https://pusdatin.kemdikbud.go.id/",
     "slug": "pusdatin",
     "status": "down",
-    "uptime": "0.08",
+    "uptime": "0.07",
     "time": 13985
   },
   {
@@ -75,9 +75,9 @@
     "name": "Verval SP",
     "url": "http://vervalsp.data.kemdikbud.go.id/",
     "slug": "verval-sp",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 3547
+    "status": "down",
+    "uptime": "99.98",
+    "time": 2365
   },
   {
     "name": "CDN Dapodik",
