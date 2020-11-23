@@ -3,9 +3,9 @@
     "name": "Dapo Kemdikbud",
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
-    "status": "down",
-    "uptime": "99.07%",
-    "time": 1990
+    "status": "up",
+    "uptime": "98.82%",
+    "time": 2080
   },
   {
     "name": "Manajemen Dapodik",
@@ -27,9 +27,9 @@
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
-    "uptime": "88.86%",
-    "time": 6220
+    "status": "down",
+    "uptime": "88.84%",
+    "time": 6442
   },
   {
     "name": "SSO Datadik",
@@ -44,7 +44,7 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "time": 1220
   },
   {
