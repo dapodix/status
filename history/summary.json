@@ -27,9 +27,9 @@
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "down",
-    "uptime": "86.92%",
-    "time": 6420
+    "status": "up",
+    "uptime": "86.65%",
+    "time": 6442
   },
   {
     "name": "SSO Datadik",
