@@ -4,7 +4,7 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "96.72%",
+    "uptime": "96.75%",
     "time": 1758
   },
   {
@@ -19,16 +19,16 @@
     "name": "SP Datadik",
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
-    "status": "up",
-    "uptime": "16.11%",
-    "time": 5690
+    "status": "down",
+    "uptime": "16.92%",
+    "time": 5252
   },
   {
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "85.15%",
+    "uptime": "85.30%",
     "time": 5908
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "97.67%",
+    "uptime": "97.69%",
     "time": 1586
   },
   {
@@ -52,7 +52,7 @@
     "url": "http://pmp.kemdikbud.go.id/",
     "slug": "pmp-dikdasmen",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.33%",
     "time": 4172
   },
   {
