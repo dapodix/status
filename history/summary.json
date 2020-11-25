@@ -20,16 +20,16 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
     "status": "up",
-    "uptime": "19.21%",
+    "uptime": "19.34%",
     "time": 4977
   },
   {
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "down",
-    "uptime": "85.69%",
-    "time": 5908
+    "status": "up",
+    "uptime": "85.57%",
+    "time": 5772
   },
   {
     "name": "SSO Datadik",
@@ -44,7 +44,7 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "97.66%",
+    "uptime": "97.67%",
     "time": 1490
   },
   {
