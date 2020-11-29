@@ -20,15 +20,15 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
     "status": "up",
-    "uptime": "60.12%",
+    "uptime": "60.14%",
     "time": 3792
   },
   {
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "down",
-    "uptime": "90.71%",
+    "status": "up",
+    "uptime": "90.68%",
     "time": 3950
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "85.96%",
+    "uptime": "85.97%",
     "time": 2107
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "slug": "pemetaan-mutu-paud",
     "status": "up",
-    "uptime": "82.75%",
+    "uptime": "82.76%",
     "time": 1632
   },
   {
