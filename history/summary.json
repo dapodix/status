@@ -4,7 +4,7 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "time": 1668
   },
   {
@@ -12,7 +12,7 @@
     "url": "http://datadik.kemdikbud.go.id/",
     "slug": "manajemen-dapodik",
     "status": "down",
-    "uptime": "2.64%",
+    "uptime": "3.00%",
     "time": 0
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
     "status": "up",
-    "uptime": "68.94%",
+    "uptime": "69.06%",
     "time": 3275
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "91.89%",
+    "uptime": "91.92%",
     "time": 4464
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "89.16%",
+    "uptime": "89.20%",
     "time": 2043
   },
   {
@@ -59,9 +59,9 @@
     "name": "Pemetaan Mutu PAUD",
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "slug": "pemetaan-mutu-paud",
-    "status": "up",
-    "uptime": "86.73%",
-    "time": 1679
+    "status": "down",
+    "uptime": "86.78%",
+    "time": 1567
   },
   {
     "name": "Verval SP",
