@@ -3,9 +3,9 @@
     "name": "Dapo Kemdikbud",
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
-    "status": "down",
-    "uptime": "97.52%",
-    "time": 1655
+    "status": "up",
+    "uptime": "97.40%",
+    "time": 1666
   },
   {
     "name": "Manajemen Dapodik",
@@ -20,7 +20,7 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
     "status": "up",
-    "uptime": "67.40%",
+    "uptime": "67.44%",
     "time": 3354
   },
   {
@@ -28,7 +28,7 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "91.48%",
+    "uptime": "91.50%",
     "time": 4531
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "88.66%",
+    "uptime": "88.68%",
     "time": 2089
   },
   {
@@ -68,7 +68,7 @@
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "slug": "pemetaan-mutu-paud",
     "status": "up",
-    "uptime": "86.07%",
+    "uptime": "86.09%",
     "time": 1644
   },
   {
