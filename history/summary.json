@@ -4,15 +4,15 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "97.40%",
-    "time": 1666
+    "uptime": "97.45%",
+    "time": 1679
   },
   {
     "name": "Manajemen Dapodik",
-    "url": "https://datadik.kemdikbud.go.id/",
+    "url": "http://datadik.kemdikbud.go.id/",
     "slug": "manajemen-dapodik",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "0.12%",
     "time": 0
   },
   {
@@ -20,21 +20,21 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
     "status": "up",
-    "uptime": "67.44%",
-    "time": 3354
+    "uptime": "68.14%",
+    "time": 3275
   },
   {
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "91.50%",
-    "time": 4531
+    "uptime": "91.68%",
+    "time": 4464
   },
   {
-    "name": "SSO Datadik",
-    "url": "https://sso.datadik.kemdikbud.go.id/",
-    "slug": "sso-datadik",
+    "name": "Info GTK",
+    "url": "https://info.gtk.kemdikbud.go.id/",
+    "slug": "info-gtk",
     "status": "down",
     "uptime": "0.00%",
     "time": 0
@@ -44,32 +44,24 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "88.68%",
-    "time": 2089
+    "uptime": "88.92%",
+    "time": 2081
   },
   {
     "name": "PMP Dikdasmen",
     "url": "http://pmp.kemdikbud.go.id/",
     "slug": "pmp-dikdasmen",
     "status": "up",
-    "uptime": "99.36%",
-    "time": 3302
-  },
-  {
-    "name": "Pusdatin",
-    "url": "https://pusdatin.kemdikbud.go.id/",
-    "slug": "pusdatin",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 12763
+    "uptime": "99.37%",
+    "time": 3152
   },
   {
     "name": "Pemetaan Mutu PAUD",
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "slug": "pemetaan-mutu-paud",
     "status": "up",
-    "uptime": "86.09%",
-    "time": 1644
+    "uptime": "86.39%",
+    "time": 1679
   },
   {
     "name": "Verval SP",
@@ -77,7 +69,71 @@
     "slug": "verval-sp",
     "status": "up",
     "uptime": "99.97%",
-    "time": 1936
+    "time": 1925
+  },
+  {
+    "name": "Verval PTK",
+    "url": "http://vervalptk.data.kemdikbud.go.id/",
+    "slug": "verval-ptk",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 3392
+  },
+  {
+    "name": "Verval PD",
+    "url": "http://vervalpd.data.kemdikbud.go.id/",
+    "slug": "verval-pd",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2448
+  },
+  {
+    "name": "Verval Ponsel",
+    "url": "https://vervalponsel.data.kemdikbud.go.id/",
+    "slug": "verval-ponsel",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2599
+  },
+  {
+    "name": "Verval Ijazah",
+    "url": "https://info.gtk.kemdikbud.go.id/verval_s1/index.php",
+    "slug": "verval-ijazah",
+    "status": "down",
+    "uptime": "2.19%",
+    "time": 0
+  },
+  {
+    "name": "Simdak PAUD",
+    "url": "https://app.paud-dikmas.kemdikbud.go.id/simdak/",
+    "slug": "simdak-paud",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 2162
+  },
+  {
+    "name": "BANSM",
+    "url": "https://bansm.kemdikbud.go.id/",
+    "slug": "bansm",
+    "status": "down",
+    "uptime": "0.00%",
+    "time": 0
+  },
+  {
+    "name": "BAN PAUD & PNF",
+    "url": "https://banpaudpnf.kemdikbud.go.id/",
+    "slug": "ban-paud-and-pnf",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1592
+  },
+  {
+    "name": "BANPAUD&PNF Sispena",
+    "url": "https://banpaudpnf.kemdikbud.go.id/sispena/",
+    "slug": "banpaud-and-pnf-sispena",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1248
   },
   {
     "name": "CDN Dapodik",
@@ -85,6 +141,6 @@
     "slug": "cdn-dapodik",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2168
+    "time": 2081
   }
 ]
