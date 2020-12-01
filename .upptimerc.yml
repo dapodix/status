@@ -2,12 +2,12 @@
 owner: dapodix # Your GitHub username
 repo: status # Your Github repository name
 
-# Add your sites here
+
 sites:
   - name: Dapo Kemdikbud
     url: https://dapo.kemdikbud.go.id/
   - name: Manajemen Dapodik
-    url: https://datadik.kemdikbud.go.id/
+    url: http://datadik.kemdikbud.go.id/
     expectedStatusCodes:
       - 200
       - 301
@@ -16,12 +16,8 @@ sites:
     url: https://sp.datadik.kemdikbud.go.id/
   - name: PTK Datadik
     url: https://ptk.datadik.kemdikbud.go.id
-  - name: SSO Datadik
-    url: https://sso.datadik.kemdikbud.go.id/
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
+  - name: Info GTK
+    url: https://info.gtk.kemdikbud.go.id/
   - name: Portal BOS
     url: https://bos.kemdikbud.go.id/
     expectedStatusCodes:
@@ -30,8 +26,6 @@ sites:
       - 302
   - name: PMP Dikdasmen
     url: http://pmp.kemdikbud.go.id/
-  - name: Pusdatin
-    url: https://pusdatin.kemdikbud.go.id/
   - name: Pemetaan Mutu PAUD
     url: https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/
     expectedStatusCodes:
@@ -40,6 +34,38 @@ sites:
       - 302
   - name: Verval SP
     url: http://vervalsp.data.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: Verval PTK
+    url: http://vervalptk.data.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: Verval PD
+    url: http://vervalpd.data.kemdikbud.go.id/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: Verval Ponsel
+    url: https://vervalponsel.data.kemdikbud.go.id/
+  - name: Verval Ijazah
+    url: https://info.gtk.kemdikbud.go.id/verval_s1/index.php
+  - name: Simdak PAUD
+    url: https://app.paud-dikmas.kemdikbud.go.id/simdak/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+  - name: BANSM
+    url: https://bansm.kemdikbud.go.id/
+  - name: BAN PAUD & PNF
+    url: https://banpaudpnf.kemdikbud.go.id/
+  - name: BANPAUD&PNF Sispena
+    url: https://banpaudpnf.kemdikbud.go.id/sispena/
     expectedStatusCodes:
       - 200
       - 301
