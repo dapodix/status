@@ -4,8 +4,8 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "97.29%",
-    "time": 1666
+    "uptime": "97.43%",
+    "time": 1677
   },
   {
     "name": "Manajemen Dapodik",
@@ -19,17 +19,17 @@
     "name": "SP Datadik",
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
-    "status": "up",
-    "uptime": "64.72%",
-    "time": 3689
+    "status": "down",
+    "uptime": "66.51%",
+    "time": 3445
   },
   {
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "90.95%",
-    "time": 4322
+    "uptime": "91.41%",
+    "time": 4330
   },
   {
     "name": "SSO Datadik",
@@ -44,40 +44,40 @@
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "87.58%",
-    "time": 2100
+    "uptime": "88.21%",
+    "time": 2089
   },
   {
     "name": "PMP Dikdasmen",
     "url": "http://pmp.kemdikbud.go.id/",
     "slug": "pmp-dikdasmen",
     "status": "up",
-    "uptime": "99.29%",
-    "time": 3507
+    "uptime": "99.33%",
+    "time": 3302
   },
   {
     "name": "Pusdatin",
     "url": "https://pusdatin.kemdikbud.go.id/",
     "slug": "pusdatin",
     "status": "down",
-    "uptime": "0.01%",
-    "time": 12921
+    "uptime": "0.00%",
+    "time": 12763
   },
   {
     "name": "Pemetaan Mutu PAUD",
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "slug": "pemetaan-mutu-paud",
     "status": "up",
-    "uptime": "84.74%",
-    "time": 1656
+    "uptime": "85.52%",
+    "time": 1644
   },
   {
     "name": "Verval SP",
     "url": "http://vervalsp.data.kemdikbud.go.id/",
     "slug": "verval-sp",
     "status": "up",
-    "uptime": "99.96%",
-    "time": 2001
+    "uptime": "99.97%",
+    "time": 1936
   },
   {
     "name": "CDN Dapodik",
@@ -85,6 +85,6 @@
     "slug": "cdn-dapodik",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2279
+    "time": 2168
   }
 ]
