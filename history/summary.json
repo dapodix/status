@@ -4,32 +4,64 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "97.62%",
-    "time": 1681
+    "uptime": "97.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
+    "time": 2928,
+    "timeDay": 2659,
+    "timeWeek": 2757,
+    "timeMonth": 2928,
+    "timeYear": 2928
   },
   {
     "name": "Manajemen Dapodik",
     "url": "http://datadik.kemdikbud.go.id/",
     "slug": "manajemen-dapodik",
     "status": "down",
-    "uptime": "8.85%",
-    "time": 0
+    "uptime": "12.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "20.63%",
+    "uptimeMonth": "12.60%",
+    "uptimeYear": "12.60%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "SP Datadik",
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "slug": "sp-datadik",
     "status": "up",
-    "uptime": "70.92%",
-    "time": 3206
+    "uptime": "72.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "72.12%",
+    "uptimeYear": "72.12%",
+    "time": 5067,
+    "timeDay": 1427,
+    "timeWeek": 1469,
+    "timeMonth": 5067,
+    "timeYear": 5067
   },
   {
     "name": "PTK Datadik",
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "92.18%",
-    "time": 4497
+    "uptime": "92.51%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "95.83%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "92.51%",
+    "time": 7760,
+    "timeDay": 1814,
+    "timeWeek": 7403,
+    "timeMonth": 7760,
+    "timeYear": 7760
   },
   {
     "name": "Info GTK",
@@ -37,31 +69,63 @@
     "slug": "info-gtk",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Portal BOS",
     "url": "https://bos.kemdikbud.go.id/",
     "slug": "portal-bos",
     "status": "up",
-    "uptime": "89.80%",
-    "time": 2003
+    "uptime": "90.22%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "90.22%",
+    "uptimeYear": "90.22%",
+    "time": 3363,
+    "timeDay": 1653,
+    "timeWeek": 3334,
+    "timeMonth": 3363,
+    "timeYear": 3363
   },
   {
     "name": "PMP Dikdasmen",
     "url": "http://pmp.kemdikbud.go.id/",
     "slug": "pmp-dikdasmen",
     "status": "up",
-    "uptime": "99.43%",
-    "time": 3030
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 3114,
+    "timeDay": 1258,
+    "timeWeek": 1718,
+    "timeMonth": 3114,
+    "timeYear": 3114
   },
   {
     "name": "Pemetaan Mutu PAUD",
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "slug": "pemetaan-mutu-paud",
     "status": "up",
-    "uptime": "87.53%",
-    "time": 1608
+    "uptime": "88.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "80.43%",
+    "uptimeMonth": "88.04%",
+    "uptimeYear": "88.04%",
+    "time": 1968,
+    "timeDay": 2178,
+    "timeWeek": 1868,
+    "timeMonth": 1968,
+    "timeYear": 1968
   },
   {
     "name": "Verval SP",
@@ -69,7 +133,15 @@
     "slug": "verval-sp",
     "status": "up",
     "uptime": "99.97%",
-    "time": 1924
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2038,
+    "timeDay": 1710,
+    "timeWeek": 1512,
+    "timeMonth": 2038,
+    "timeYear": 2038
   },
   {
     "name": "Verval PTK",
@@ -77,7 +149,15 @@
     "slug": "verval-ptk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 5137
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4673,
+    "timeDay": 3746,
+    "timeWeek": 4673,
+    "timeMonth": 4673,
+    "timeYear": 4673
   },
   {
     "name": "Verval PD",
@@ -85,7 +165,15 @@
     "slug": "verval-pd",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2564
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2586,
+    "timeDay": 2629,
+    "timeWeek": 2586,
+    "timeMonth": 2586,
+    "timeYear": 2586
   },
   {
     "name": "Verval Ponsel",
@@ -93,7 +181,15 @@
     "slug": "verval-ponsel",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2460
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2317,
+    "timeDay": 2031,
+    "timeWeek": 2317,
+    "timeMonth": 2317,
+    "timeYear": 2317
   },
   {
     "name": "Verval Ijazah",
@@ -101,7 +197,15 @@
     "slug": "verval-ijazah",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Simdak PAUD",
@@ -109,7 +213,15 @@
     "slug": "simdak-paud",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2291
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2303,
+    "timeDay": 2327,
+    "timeWeek": 2303,
+    "timeMonth": 2303,
+    "timeYear": 2303
   },
   {
     "name": "BANSM",
@@ -117,7 +229,15 @@
     "slug": "bansm",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "BAN PAUD & PNF",
@@ -125,7 +245,15 @@
     "slug": "ban-paud-and-pnf",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1707
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1899,
+    "timeDay": 2281,
+    "timeWeek": 1899,
+    "timeMonth": 1899,
+    "timeYear": 1899
   },
   {
     "name": "BANPAUD&PNF Sispena",
@@ -133,7 +261,15 @@
     "slug": "banpaud-and-pnf-sispena",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1307
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1317,
+    "timeDay": 1338,
+    "timeWeek": 1317,
+    "timeMonth": 1317,
+    "timeYear": 1317
   },
   {
     "name": "CDN Dapodik",
@@ -141,6 +277,14 @@
     "slug": "cdn-dapodik",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2022
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1981,
+    "timeDay": 1445,
+    "timeWeek": 1278,
+    "timeMonth": 1981,
+    "timeYear": 1981
   }
 ]
