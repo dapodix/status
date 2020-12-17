@@ -6,18 +6,16 @@ repo: status # Your Github repository name
 sites:
   - name: Dapo Kemdikbud
     url: https://dapo.kemdikbud.go.id/
-  - name: Manajemen Dapodik
-    url: http://datadik.kemdikbud.go.id/
-    expectedStatusCodes:
-      - 200
-      - 301
-      - 302
   - name: SP Datadik
     url: https://sp.datadik.kemdikbud.go.id/
   - name: PTK Datadik
     url: https://ptk.datadik.kemdikbud.go.id
   - name: Info GTK
-    url: https://info.gtk.kemdikbud.go.id/
+    url: https://info.gtk.kemdikbud.go.id
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
   - name: Portal BOS
     url: https://bos.kemdikbud.go.id/
     expectedStatusCodes:
@@ -60,8 +58,6 @@ sites:
       - 200
       - 301
       - 302
-  - name: BANSM
-    url: https://bansm.kemdikbud.go.id/
   - name: BAN PAUD & PNF
     url: https://banpaudpnf.kemdikbud.go.id/
   - name: BANPAUD&PNF Sispena
