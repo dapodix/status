@@ -52,7 +52,7 @@
     "status": "up",
     "uptime": "75.86%",
     "uptimeDay": "96.53%",
-    "uptimeWeek": "66.05%",
+    "uptimeWeek": "66.20%",
     "uptimeMonth": "75.86%",
     "uptimeYear": "75.86%",
     "time": 2692,
@@ -140,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-20": 941,
+      "2020-12-20": 956,
       "2020-12-19": 1440,
       "2020-12-18": 1440,
       "2020-12-17": 1440,
@@ -338,7 +338,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-20": 941,
+      "2020-12-20": 956,
       "2020-12-19": 1440,
       "2020-12-18": 1440,
       "2020-12-17": 1440,
@@ -365,12 +365,12 @@
     "url": "https://app.paud-dikmas.kemdikbud.go.id/simdak/",
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
-    "status": "up",
-    "uptime": "88.26%",
-    "uptimeDay": "48.35%",
-    "uptimeWeek": "68.04%",
-    "uptimeMonth": "88.26%",
-    "uptimeYear": "88.26%",
+    "status": "down",
+    "uptime": "88.52%",
+    "uptimeDay": "49.39%",
+    "uptimeWeek": "68.73%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "88.52%",
     "time": 1782,
     "timeDay": 1654,
     "timeWeek": 1744,
@@ -381,7 +381,7 @@
       "2020-12-19": 642,
       "2020-12-18": 831,
       "2020-12-17": 743,
-      "2020-12-16": 569
+      "2020-12-16": 499
     }
   },
   {
