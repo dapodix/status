@@ -4,10 +4,10 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/dapo.kemdikbud.go.id",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "96.81%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "98.21%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "96.81%",
     "time": 2869,
@@ -16,6 +16,7 @@
     "timeMonth": 2940,
     "timeYear": 2869,
     "dailyMinutesDown": {
+      "2021-02-05": 1,
       "2021-02-04": 20,
       "2021-02-03": 74,
       "2021-01-31": 33,
@@ -62,7 +63,7 @@
       "2020-11-27": 20,
       "2020-11-26": 30,
       "2020-11-25": 5,
-      "2020-11-24": 120
+      "2020-11-24": 113
     }
   },
   {
@@ -197,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-05": 433,
+      "2021-02-05": 461,
       "2021-02-04": 1440,
       "2021-02-03": 1440,
       "2021-02-02": 1440,
@@ -432,18 +433,18 @@
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
     "status": "down",
-    "uptime": "52.31%",
+    "uptime": "52.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "2.60%",
-    "uptimeYear": "52.31%",
+    "uptimeMonth": "2.53%",
+    "uptimeYear": "52.29%",
     "time": 2394,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2076,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-02-05": 433,
+      "2021-02-05": 461,
       "2021-02-04": 1440,
       "2021-02-03": 1440,
       "2021-02-02": 1440,
@@ -528,7 +529,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-05": 433,
+      "2021-02-05": 461,
       "2021-02-04": 1440,
       "2021-02-03": 1440,
       "2021-02-02": 1440,
