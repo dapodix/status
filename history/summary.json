@@ -4,10 +4,10 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/dapo.kemdikbud.go.id",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.26%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "97.84%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "97.26%",
     "time": 3002,
@@ -16,7 +16,7 @@
     "timeMonth": 3325,
     "timeYear": 3002,
     "dailyMinutesDown": {
-      "2021-02-16": 5,
+      "2021-02-16": 6,
       "2021-02-15": 74,
       "2021-02-14": 29,
       "2021-02-13": 78,
@@ -63,8 +63,7 @@
       "2020-12-08": 4,
       "2020-12-07": 8,
       "2020-12-06": 5,
-      "2020-12-05": 60,
-      "2020-12-04": 3
+      "2020-12-05": 60
     }
   },
   {
@@ -191,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-16": 1408,
+      "2021-02-16": 1421,
       "2021-02-15": 1440,
       "2021-02-14": 1440,
       "2021-02-13": 1440,
@@ -458,7 +457,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-02-16": 1408,
+      "2021-02-16": 1421,
       "2021-02-15": 1440,
       "2021-02-14": 1440,
       "2021-02-13": 1440,
@@ -511,11 +510,11 @@
     "icon": "https://favicons.githubusercontent.com/vervalponsel.data.kemdikbud.go.id",
     "slug": "verval-ponsel",
     "status": "up",
-    "uptime": "94.68%",
+    "uptime": "94.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.71%",
-    "uptimeYear": "94.68%",
+    "uptimeYear": "94.69%",
     "time": 2473,
     "timeDay": 1920,
     "timeWeek": 1790,
@@ -554,7 +553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-16": 1408,
+      "2021-02-16": 1421,
       "2021-02-15": 1440,
       "2021-02-14": 1440,
       "2021-02-13": 1440,
