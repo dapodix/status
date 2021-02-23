@@ -73,18 +73,19 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "96.66%",
-    "uptimeYear": "98.91%",
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "98.93%",
     "time": 1800,
     "timeDay": 1454,
     "timeWeek": 1533,
     "timeMonth": 1560,
     "timeYear": 1800,
     "dailyMinutesDown": {
+      "2021-02-23": 2,
       "2021-02-22": 13,
       "2021-02-21": 50,
       "2021-02-20": 51,
@@ -110,7 +111,7 @@
       "2021-01-30": 73,
       "2021-01-29": 26,
       "2021-01-28": 49,
-      "2021-01-27": 60
+      "2021-01-27": 36
     }
   },
   {
@@ -118,10 +119,10 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "98.84%",
     "time": 5042,
@@ -130,6 +131,7 @@
     "timeMonth": 1363,
     "timeYear": 5042,
     "dailyMinutesDown": {
+      "2021-02-23": 1,
       "2021-02-16": 4,
       "2021-02-15": 23,
       "2021-02-13": 51,
@@ -162,7 +164,7 @@
       "2020-11-26": 149,
       "2020-11-25": 185,
       "2020-11-24": 254,
-      "2020-11-23": 144
+      "2020-11-23": 133
     }
   },
   {
@@ -182,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 52,
+      "2021-02-23": 129,
       "2021-02-22": 1440,
       "2021-02-21": 1440,
       "2021-02-20": 1440,
@@ -448,18 +450,18 @@
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
     "status": "down",
-    "uptime": "41.19%",
+    "uptime": "41.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.19%",
+    "uptimeYear": "41.16%",
     "time": 2394,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-02-23": 52,
+      "2021-02-23": 129,
       "2021-02-22": 1440,
       "2021-02-21": 1440,
       "2021-02-20": 1440,
@@ -562,7 +564,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-23": 52,
+      "2021-02-23": 129,
       "2021-02-22": 1440,
       "2021-02-21": 1440,
       "2021-02-20": 1440,
