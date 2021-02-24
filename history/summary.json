@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-24": 52,
+      "2021-02-24": 66,
       "2021-02-23": 1440,
       "2021-02-22": 1440,
       "2021-02-21": 1440,
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-02-24": 52,
+      "2021-02-24": 66,
       "2021-02-23": 1440,
       "2021-02-22": 1440,
       "2021-02-21": 1440,
@@ -520,9 +520,9 @@
     "url": "https://vervalponsel.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalponsel.data.kemdikbud.go.id",
     "slug": "verval-ponsel",
-    "status": "up",
+    "status": "down",
     "uptime": "95.13%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "95.13%",
@@ -532,6 +532,7 @@
     "timeMonth": 2524,
     "timeYear": 2432,
     "dailyMinutesDown": {
+      "2021-02-24": 0,
       "2021-02-03": 26,
       "2021-02-02": 16,
       "2021-02-01": 492,
@@ -564,7 +565,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-24": 52,
+      "2021-02-24": 66,
       "2021-02-23": 1440,
       "2021-02-22": 1440,
       "2021-02-21": 1440,
