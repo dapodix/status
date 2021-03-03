@@ -70,19 +70,19 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "99.08%",
     "time": 1808,
     "timeDay": 1646,
-    "timeWeek": 1913,
+    "timeWeek": 1932,
     "timeMonth": 1605,
     "timeYear": 1808,
     "dailyMinutesDown": {
-      "2021-03-03": 67,
+      "2021-03-03": 69,
       "2021-03-02": 45,
       "2021-03-01": 61,
       "2021-02-28": 16,
@@ -106,8 +106,7 @@
       "2021-02-10": 34,
       "2021-02-09": 81,
       "2021-02-08": 64,
-      "2021-02-07": 16,
-      "2021-02-06": 17
+      "2021-02-07": 16
     }
   },
   {
@@ -115,10 +114,10 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.93%",
     "time": 4865,
@@ -127,6 +126,7 @@
     "timeMonth": 1402,
     "timeYear": 4865,
     "dailyMinutesDown": {
+      "2021-03-03": 1,
       "2021-02-25": 13,
       "2021-02-23": 25,
       "2021-02-16": 4,
@@ -161,7 +161,7 @@
       "2020-11-26": 149,
       "2020-11-25": 185,
       "2020-11-24": 254,
-      "2020-11-23": 113
+      "2020-11-23": 102
     }
   },
   {
@@ -181,7 +181,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 338,
+      "2021-03-03": 349,
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-03-03": 338,
+      "2021-03-03": 349,
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
@@ -594,7 +594,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-03": 338,
+      "2021-03-03": 349,
       "2021-03-02": 1440,
       "2021-03-01": 1440,
       "2021-02-28": 1440,
