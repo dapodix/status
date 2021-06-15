@@ -1,7 +1,7 @@
 url: https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/
-status: up
-code: 200
-responseTime: 1617
-lastUpdated: 2021-06-15T16:20:31.937Z
+status: down
+code: 500
+responseTime: 16590
+lastUpdated: 2021-06-15T23:22:31.018Z
 startTime: Sat Nov 21 2020 13:47:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
