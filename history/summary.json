@@ -145,10 +145,10 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.84%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.83%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.31%",
     "time": 3428,
@@ -157,6 +157,7 @@
     "timeMonth": 1257,
     "timeYear": 3428,
     "dailyMinutesDown": {
+      "2021-06-15": 1,
       "2021-06-10": 89,
       "2021-06-09": 23,
       "2021-06-08": 79,
@@ -217,7 +218,7 @@
       "2020-11-28": 12,
       "2020-11-27": 81,
       "2020-11-26": 149,
-      "2020-11-25": 19
+      "2020-11-25": 15
     }
   },
   {
@@ -655,7 +656,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-06-15": 618,
+      "2021-06-15": 640,
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
@@ -1102,18 +1103,18 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "53.28%",
+    "uptime": "53.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.28%",
+    "uptimeYear": "53.27%",
     "time": 1683,
     "timeDay": 1289,
     "timeWeek": 1147,
     "timeMonth": 1225,
     "timeYear": 1683,
     "dailyMinutesDown": {
-      "2021-06-15": 618,
+      "2021-06-15": 640,
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
@@ -1230,7 +1231,7 @@
     "timeMonth": 761,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2021-06-15": 618,
+      "2021-06-15": 640,
       "2021-06-14": 1440,
       "2021-06-13": 1440,
       "2021-06-12": 1440,
