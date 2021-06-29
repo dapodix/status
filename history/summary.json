@@ -238,11 +238,11 @@
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "info-gtk",
     "status": "up",
-    "uptime": "26.11%",
+    "uptime": "26.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "26.11%",
+    "uptimeYear": "26.12%",
     "time": 1978,
     "timeDay": 1462,
     "timeWeek": 1619,
@@ -672,7 +672,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-06-29": 617,
+      "2021-06-29": 635,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
@@ -1087,10 +1087,10 @@
     "url": "https://app.paud-dikmas.kemdikbud.go.id/simdak/",
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "97.38%",
     "time": 2189,
@@ -1099,6 +1099,7 @@
     "timeMonth": 3356,
     "timeYear": 2189,
     "dailyMinutesDown": {
+      "2021-06-29": 1,
       "2021-06-27": 15,
       "2021-06-26": 7,
       "2021-06-25": 9,
@@ -1135,7 +1136,7 @@
       "2020-12-22": 254,
       "2020-12-21": 798,
       "2020-12-20": 686,
-      "2020-12-19": 371
+      "2020-12-19": 359
     }
   },
   {
@@ -1155,7 +1156,7 @@
     "timeMonth": 1212,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2021-06-29": 617,
+      "2021-06-29": 635,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
@@ -1286,7 +1287,7 @@
     "timeMonth": 778,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2021-06-29": 617,
+      "2021-06-29": 635,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
