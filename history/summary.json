@@ -626,11 +626,11 @@
     "icon": "https://favicons.githubusercontent.com/vervalptk.data.kemdikbud.go.id",
     "slug": "verval-ptk",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 3275,
     "timeDay": 3188,
     "timeWeek": 3477,
@@ -684,7 +684,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-07-09": 1190,
+      "2021-07-09": 1200,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
@@ -1109,10 +1109,10 @@
     "url": "https://app.paud-dikmas.kemdikbud.go.id/simdak/",
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
-    "status": "up",
+    "status": "down",
     "uptime": "97.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.26%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.25%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "97.55%",
     "time": 2210,
@@ -1121,6 +1121,7 @@
     "timeMonth": 3576,
     "timeYear": 2210,
     "dailyMinutesDown": {
+      "2021-07-09": 1,
       "2021-07-06": 11,
       "2021-07-04": 63,
       "2021-07-01": 5,
@@ -1161,7 +1162,7 @@
       "2020-12-22": 254,
       "2020-12-21": 798,
       "2020-12-20": 686,
-      "2020-12-19": 134
+      "2020-12-19": 124
     }
   },
   {
@@ -1181,7 +1182,7 @@
     "timeMonth": 1374,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2021-07-09": 1190,
+      "2021-07-09": 1201,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
@@ -1322,7 +1323,7 @@
     "timeMonth": 770,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2021-07-09": 1190,
+      "2021-07-09": 1201,
       "2021-07-08": 1440,
       "2021-07-07": 1440,
       "2021-07-06": 1440,
