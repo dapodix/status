@@ -4,10 +4,10 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/dapo.kemdikbud.go.id",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.16%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.40%",
     "time": 2924,
@@ -16,7 +16,7 @@
     "timeMonth": 2699,
     "timeYear": 2924,
     "dailyMinutesDown": {
-      "2021-07-11": 10,
+      "2021-07-11": 11,
       "2021-07-10": 12,
       "2021-07-09": 21,
       "2021-07-08": 14,
@@ -72,8 +72,7 @@
       "2021-03-12": 74,
       "2021-03-11": 33,
       "2021-03-10": 75,
-      "2021-03-09": 47,
-      "2021-03-08": 17
+      "2021-03-09": 47
     }
   },
   {
@@ -549,12 +548,12 @@
     "slug": "pemetaan-mutu-paud",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "87.37%",
+    "uptimeDay": "87.44%",
     "uptimeWeek": "91.43%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.62%",
     "time": 7253,
-    "timeDay": 8626,
+    "timeDay": 8369,
     "timeWeek": 8486,
     "timeMonth": 8415,
     "timeYear": 7253,
@@ -683,7 +682,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-07-11": 329,
+      "2021-07-11": 335,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -1183,7 +1182,7 @@
     "timeMonth": 1378,
     "timeYear": 1647,
     "dailyMinutesDown": {
-      "2021-07-11": 330,
+      "2021-07-11": 336,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -1326,7 +1325,7 @@
     "timeMonth": 772,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2021-07-11": 330,
+      "2021-07-11": 336,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
