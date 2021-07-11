@@ -547,18 +547,19 @@
     "url": "https://pemetaanmutu.paud-dikmas.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/pemetaanmutu.paud-dikmas.kemdikbud.go.id",
     "slug": "pemetaan-mutu-paud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "87.82%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "87.75%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.61%",
-    "time": 7245,
-    "timeDay": 8555,
-    "timeWeek": 8453,
-    "timeMonth": 8406,
-    "timeYear": 7245,
+    "time": 7254,
+    "timeDay": 8840,
+    "timeWeek": 8527,
+    "timeMonth": 8427,
+    "timeYear": 7254,
     "dailyMinutesDown": {
+      "2021-07-11": 1,
       "2021-07-10": 175,
       "2021-07-09": 118,
       "2021-07-08": 103,
@@ -572,8 +573,7 @@
       "2021-06-30": 49,
       "2021-06-29": 43,
       "2021-06-28": 54,
-      "2021-06-27": 115,
-      "2021-06-26": 5
+      "2021-06-27": 115
     }
   },
   {
@@ -683,7 +683,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-07-11": 170,
+      "2021-07-11": 176,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -1183,7 +1183,7 @@
     "timeMonth": 1378,
     "timeYear": 1647,
     "dailyMinutesDown": {
-      "2021-07-11": 170,
+      "2021-07-11": 176,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -1326,7 +1326,7 @@
     "timeMonth": 772,
     "timeYear": 1075,
     "dailyMinutesDown": {
-      "2021-07-11": 170,
+      "2021-07-11": 176,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
