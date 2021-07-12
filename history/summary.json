@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.41%",
     "uptimeDay": "97.40%",
-    "uptimeWeek": "98.72%",
+    "uptimeWeek": "98.77%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.41%",
     "time": 2925,
     "timeDay": 3007,
-    "timeWeek": 2678,
+    "timeWeek": 2703,
     "timeMonth": 2719,
     "timeYear": 2925,
     "dailyMinutesDown": {
@@ -80,10 +80,10 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "97.98%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "97.97%",
     "uptimeMonth": "97.75%",
     "uptimeYear": "99.43%",
     "time": 1681,
@@ -92,7 +92,7 @@
     "timeMonth": 1624,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2021-07-12": 50,
+      "2021-07-12": 52,
       "2021-07-11": 5,
       "2021-07-10": 20,
       "2021-07-09": 8,
@@ -140,7 +140,7 @@
       "2021-05-12": 32,
       "2021-05-11": 34,
       "2021-05-10": 46,
-      "2021-05-09": 26
+      "2021-05-09": 14
     }
   },
   {
@@ -148,10 +148,10 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.40%",
     "time": 3244,
@@ -160,6 +160,7 @@
     "timeMonth": 1520,
     "timeYear": 3244,
     "dailyMinutesDown": {
+      "2021-07-12": 1,
       "2021-07-08": 6,
       "2021-07-06": 5,
       "2021-07-04": 9,
@@ -231,7 +232,7 @@
       "2020-11-30": 104,
       "2020-11-29": 5,
       "2020-11-28": 12,
-      "2020-11-27": 35
+      "2020-11-27": 6
     }
   },
   {
@@ -682,7 +683,7 @@
     "timeMonth": 0,
     "timeYear": 2394,
     "dailyMinutesDown": {
-      "2021-07-12": 1340,
+      "2021-07-12": 1369,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
@@ -1173,18 +1174,18 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "46.72%",
+    "uptime": "46.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "46.72%",
+    "uptimeYear": "46.71%",
     "time": 1644,
     "timeDay": 975,
     "timeWeek": 1160,
     "timeMonth": 1373,
     "timeYear": 1644,
     "dailyMinutesDown": {
-      "2021-07-12": 1340,
+      "2021-07-12": 1369,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
@@ -1328,7 +1329,7 @@
     "timeMonth": 762,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2021-07-12": 1340,
+      "2021-07-12": 1369,
       "2021-07-11": 1440,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
