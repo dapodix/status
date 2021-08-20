@@ -1,7 +1,7 @@
 url: http://vervalsp.data.kemdikbud.go.id/
-status: up
-code: 200
-responseTime: 1160
-lastUpdated: 2021-08-20T06:19:37.633Z
+status: down
+code: 503
+responseTime: 6886
+lastUpdated: 2021-08-20T21:52:33.809Z
 startTime: Sat Nov 21 2020 13:47:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
