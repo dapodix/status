@@ -1,7 +1,7 @@
 url: https://info.gtk.kemdikbud.go.id
-status: up
-code: 200
-responseTime: 1363
-lastUpdated: 2021-09-15T17:59:38.207Z
+status: down
+code: 500
+responseTime: 1101
+lastUpdated: 2021-09-15T19:09:48.779Z
 startTime: Tue Dec 01 2020 14:26:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
