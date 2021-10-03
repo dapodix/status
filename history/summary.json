@@ -4,10 +4,10 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/dapo.kemdikbud.go.id",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.77%",
     "time": 3176,
@@ -16,6 +16,7 @@
     "timeMonth": 2809,
     "timeYear": 3176,
     "dailyMinutesDown": {
+      "2021-10-03": 2,
       "2021-10-02": 13,
       "2021-10-01": 5,
       "2021-09-29": 35,
@@ -42,7 +43,7 @@
       "2021-08-30": 10,
       "2021-08-29": 21,
       "2021-08-28": 28,
-      "2021-08-27": 32
+      "2021-08-27": 20
     }
   },
   {
@@ -240,10 +241,10 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/bos.kemdikbud.go.id",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "93.16%",
-    "uptimeWeek": "93.08%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "93.07%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "99.29%",
     "time": 2189,
@@ -252,7 +253,7 @@
     "timeMonth": 4530,
     "timeYear": 2189,
     "dailyMinutesDown": {
-      "2021-10-03": 95,
+      "2021-10-03": 96,
       "2021-10-02": 573,
       "2021-09-29": 32,
       "2021-09-24": 17,
@@ -307,8 +308,7 @@
       "2021-07-01": 22,
       "2021-06-29": 6,
       "2021-06-28": 10,
-      "2021-06-25": 16,
-      "2021-06-23": 14
+      "2021-06-25": 16
     }
   },
   {
@@ -366,8 +366,8 @@
     "status": "down",
     "uptime": "91.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.92%",
-    "uptimeMonth": "78.76%",
+    "uptimeWeek": "8.79%",
+    "uptimeMonth": "78.73%",
     "uptimeYear": "91.60%",
     "time": 7407,
     "timeDay": 0,
@@ -375,7 +375,7 @@
     "timeMonth": 2086,
     "timeYear": 7407,
     "dailyMinutesDown": {
-      "2021-10-03": 672,
+      "2021-10-03": 685,
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
@@ -573,7 +573,7 @@
     "uptime": "18.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "77.33%",
+    "uptimeMonth": "77.36%",
     "uptimeYear": "18.79%",
     "time": 2200,
     "timeDay": 2096,
@@ -921,11 +921,11 @@
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "verval-ijazah",
     "status": "up",
-    "uptime": "49.31%",
+    "uptime": "49.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.18%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "49.31%",
+    "uptimeYear": "49.32%",
     "time": 3094,
     "timeDay": 1263,
     "timeWeek": 7862,
@@ -1121,7 +1121,7 @@
     "timeMonth": 2537,
     "timeYear": 2264,
     "dailyMinutesDown": {
-      "2021-10-03": 673,
+      "2021-10-03": 686,
       "2021-10-02": 1440,
       "2021-10-01": 1440,
       "2021-09-30": 1440,
