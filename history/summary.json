@@ -51,10 +51,10 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "94.01%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "93.99%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "99.77%",
     "time": 1763,
@@ -63,7 +63,7 @@
     "timeMonth": 1857,
     "timeYear": 1763,
     "dailyMinutesDown": {
-      "2021-10-06": 68,
+      "2021-10-06": 70,
       "2021-10-05": 95,
       "2021-10-04": 70,
       "2021-10-03": 39,
@@ -76,7 +76,7 @@
       "2021-09-26": 51,
       "2021-09-25": 30,
       "2021-09-24": 23,
-      "2021-09-23": 107
+      "2021-09-23": 102
     }
   },
   {
@@ -243,10 +243,10 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/bos.kemdikbud.go.id",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "78.55%",
-    "uptimeWeek": "82.30%",
+    "uptimeDay": "78.50%",
+    "uptimeWeek": "82.29%",
     "uptimeMonth": "95.09%",
     "uptimeYear": "99.14%",
     "time": 2730,
@@ -255,7 +255,7 @@
     "timeMonth": 7461,
     "timeYear": 2730,
     "dailyMinutesDown": {
-      "2021-10-06": 310,
+      "2021-10-06": 311,
       "2021-10-04": 303,
       "2021-10-03": 571,
       "2021-10-02": 573,
@@ -295,8 +295,7 @@
       "2021-08-06": 31,
       "2021-08-04": 11,
       "2021-08-03": 21,
-      "2021-08-02": 21,
-      "2021-07-23": 11
+      "2021-08-02": 21
     }
   },
   {
@@ -356,7 +355,7 @@
     "uptime": "90.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.38%",
+    "uptimeMonth": "69.37%",
     "uptimeYear": "90.78%",
     "time": 7407,
     "timeDay": 0,
@@ -364,7 +363,7 @@
     "timeMonth": 2193,
     "timeYear": 7407,
     "dailyMinutesDown": {
-      "2021-10-06": 459,
+      "2021-10-06": 466,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
@@ -565,7 +564,7 @@
     "uptime": "19.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.70%",
+    "uptimeMonth": "86.72%",
     "uptimeYear": "19.54%",
     "time": 2179,
     "timeDay": 2009,
@@ -1114,7 +1113,7 @@
     "timeMonth": 2604,
     "timeYear": 2266,
     "dailyMinutesDown": {
-      "2021-10-06": 459,
+      "2021-10-06": 466,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
