@@ -242,10 +242,10 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/bos.kemdikbud.go.id",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "79.62%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "79.61%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "99.12%",
     "time": 2975,
@@ -254,7 +254,7 @@
     "timeMonth": 8425,
     "timeYear": 2975,
     "dailyMinutesDown": {
-      "2021-10-06": 602,
+      "2021-10-06": 603,
       "2021-10-04": 303,
       "2021-10-03": 571,
       "2021-10-02": 573,
@@ -287,8 +287,7 @@
       "2021-08-16": 5,
       "2021-08-14": 28,
       "2021-08-13": 22,
-      "2021-08-12": 13,
-      "2021-08-11": 19
+      "2021-08-12": 13
     }
   },
   {
@@ -348,7 +347,7 @@
     "uptime": "90.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.00%",
+    "uptimeMonth": "67.98%",
     "uptimeYear": "90.66%",
     "time": 7407,
     "timeDay": 0,
@@ -356,7 +355,7 @@
     "timeMonth": 2193,
     "timeYear": 7407,
     "dailyMinutesDown": {
-      "2021-10-06": 1066,
+      "2021-10-06": 1072,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
@@ -557,7 +556,7 @@
     "uptime": "19.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.09%",
+    "uptimeMonth": "88.10%",
     "uptimeYear": "19.65%",
     "time": 2179,
     "timeDay": 2009,
@@ -1106,7 +1105,7 @@
     "timeMonth": 2604,
     "timeYear": 2266,
     "dailyMinutesDown": {
-      "2021-10-06": 1066,
+      "2021-10-06": 1073,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
