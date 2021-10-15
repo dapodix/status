@@ -86,19 +86,19 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
-    "uptime": "90.05%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "98.37%",
+    "status": "down",
+    "uptime": "90.06%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "98.36%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.06%",
     "time": 2803,
     "timeDay": 966,
     "timeWeek": 1540,
     "timeMonth": 1373,
     "timeYear": 2803,
     "dailyMinutesDown": {
-      "2021-10-15": 10,
+      "2021-10-15": 11,
       "2021-10-14": 5,
       "2021-10-13": 52,
       "2021-10-12": 21,
@@ -198,8 +198,7 @@
       "2021-04-25": 24,
       "2021-04-22": 19,
       "2021-03-17": 18,
-      "2021-03-14": 16,
-      "2021-03-12": 11
+      "2021-03-14": 16
     }
   },
   {
@@ -346,7 +345,7 @@
     "status": "up",
     "uptime": "88.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "32.31%",
+    "uptimeWeek": "32.46%",
     "uptimeMonth": "47.04%",
     "uptimeYear": "88.97%",
     "time": 7396,
@@ -1125,7 +1124,7 @@
     "timeMonth": 2451,
     "timeYear": 2266,
     "dailyMinutesDown": {
-      "2021-10-15": 541,
+      "2021-10-15": 556,
       "2021-10-14": 1440,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
