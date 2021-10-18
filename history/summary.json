@@ -51,11 +51,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "97.54%",
     "uptimeYear": "99.77%",
     "time": 1796,
     "timeDay": 2217,
@@ -63,7 +63,7 @@
     "timeMonth": 2059,
     "timeYear": 1796,
     "dailyMinutesDown": {
-      "2021-10-18": 14,
+      "2021-10-18": 15,
       "2021-10-17": 7,
       "2021-10-16": 36,
       "2021-10-15": 40,
@@ -80,8 +80,7 @@
       "2021-10-04": 70,
       "2021-10-03": 39,
       "2021-10-02": 53,
-      "2021-10-01": 87,
-      "2021-09-30": 8
+      "2021-10-01": 87
     }
   },
   {
@@ -349,7 +348,7 @@
     "status": "up",
     "uptime": "89.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.72%",
+    "uptimeWeek": "75.78%",
     "uptimeMonth": "47.33%",
     "uptimeYear": "89.07%",
     "time": 7391,
@@ -1133,7 +1132,7 @@
     "timeMonth": 2332,
     "timeYear": 2264,
     "dailyMinutesDown": {
-      "2021-10-18": 597,
+      "2021-10-18": 603,
       "2021-10-17": 1440,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
