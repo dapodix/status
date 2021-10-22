@@ -54,11 +54,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "96.21%",
+    "uptimeDay": "96.18%",
     "uptimeWeek": "96.99%",
-    "uptimeMonth": "97.53%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.78%",
     "time": 1800,
     "timeDay": 1211,
@@ -66,7 +66,7 @@
     "timeMonth": 2044,
     "timeYear": 1800,
     "dailyMinutesDown": {
-      "2021-10-22": 17,
+      "2021-10-22": 18,
       "2021-10-21": 53,
       "2021-10-20": 39,
       "2021-10-19": 66,
@@ -84,7 +84,7 @@
       "2021-10-07": 150,
       "2021-10-06": 114,
       "2021-10-05": 95,
-      "2021-10-04": 30
+      "2021-10-04": 13
     }
   },
   {
@@ -351,9 +351,9 @@
     "slug": "pemetaan-mutu-paud",
     "status": "down",
     "uptime": "88.91%",
-    "uptimeDay": "3.32%",
-    "uptimeWeek": "86.19%",
-    "uptimeMonth": "44.15%",
+    "uptimeDay": "1.70%",
+    "uptimeWeek": "85.96%",
+    "uptimeMonth": "44.10%",
     "uptimeYear": "88.91%",
     "time": 7379,
     "timeDay": 0,
@@ -361,7 +361,7 @@
     "timeMonth": 2229,
     "timeYear": 7379,
     "dailyMinutesDown": {
-      "2021-10-22": 650,
+      "2021-10-22": 673,
       "2021-10-21": 743,
       "2021-10-13": 164,
       "2021-10-12": 1440,
@@ -1128,7 +1128,7 @@
     "slug": "simdak-paud",
     "status": "down",
     "uptime": "76.12%",
-    "uptimeDay": "3.31%",
+    "uptimeDay": "1.69%",
     "uptimeWeek": "35.97%",
     "uptimeMonth": "9.66%",
     "uptimeYear": "76.12%",
@@ -1138,7 +1138,7 @@
     "timeMonth": 2214,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2021-10-22": 650,
+      "2021-10-22": 673,
       "2021-10-21": 742,
       "2021-10-18": 1392,
       "2021-10-17": 1440,
