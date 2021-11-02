@@ -60,11 +60,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "97.12%",
-    "uptimeMonth": "97.73%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.74%",
     "uptimeYear": "99.80%",
     "time": 1789,
     "timeDay": 1283,
@@ -72,7 +72,7 @@
     "timeMonth": 1971,
     "timeYear": 1789,
     "dailyMinutesDown": {
-      "2021-11-02": 5,
+      "2021-11-02": 6,
       "2021-11-01": 100,
       "2021-10-31": 30,
       "2021-10-30": 70,
@@ -94,7 +94,7 @@
       "2021-10-14": 38,
       "2021-10-13": 60,
       "2021-10-12": 17,
-      "2021-10-11": 67
+      "2021-10-11": 63
     }
   },
   {
@@ -370,7 +370,7 @@
     "timeMonth": 2661,
     "timeYear": 7379,
     "dailyMinutesDown": {
-      "2021-11-02": 1167,
+      "2021-11-02": 1172,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
@@ -1161,7 +1161,7 @@
     "timeMonth": 2144,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2021-11-02": 1167,
+      "2021-11-02": 1173,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
@@ -1306,11 +1306,11 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "63.91%",
+    "uptime": "63.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "63.91%",
+    "uptimeYear": "63.92%",
     "time": 1530,
     "timeDay": 1587,
     "timeWeek": 1277,
