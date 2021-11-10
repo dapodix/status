@@ -4,10 +4,10 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/dapo.kemdikbud.go.id",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "98.53%",
+    "uptimeDay": "94.55%",
+    "uptimeWeek": "98.52%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.78%",
     "time": 3121,
@@ -16,7 +16,7 @@
     "timeMonth": 2561,
     "timeYear": 3121,
     "dailyMinutesDown": {
-      "2021-11-10": 78,
+      "2021-11-10": 79,
       "2021-11-09": 15,
       "2021-11-08": 5,
       "2021-11-07": 11,
@@ -60,7 +60,7 @@
       "2021-09-20": 37,
       "2021-09-19": 121,
       "2021-09-18": 15,
-      "2021-09-17": 96
+      "2021-09-17": 91
     }
   },
   {
@@ -68,11 +68,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "93.37%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "93.33%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.79%",
     "time": 1774,
     "timeDay": 1256,
@@ -80,7 +80,7 @@
     "timeMonth": 1831,
     "timeYear": 1774,
     "dailyMinutesDown": {
-      "2021-11-10": 90,
+      "2021-11-10": 91,
       "2021-11-09": 60,
       "2021-11-08": 60,
       "2021-11-07": 42,
@@ -102,7 +102,7 @@
       "2021-10-22": 44,
       "2021-10-21": 53,
       "2021-10-20": 39,
-      "2021-10-19": 23
+      "2021-10-19": 14
     }
   },
   {
@@ -379,7 +379,7 @@
     "timeMonth": 2661,
     "timeYear": 7379,
     "dailyMinutesDown": {
-      "2021-11-10": 1247,
+      "2021-11-10": 1268,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
       "2021-11-07": 1440,
@@ -1179,7 +1179,7 @@
     "timeMonth": 1768,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2021-11-10": 1247,
+      "2021-11-10": 1269,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
       "2021-11-07": 1440,
