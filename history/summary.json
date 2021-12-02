@@ -6,7 +6,7 @@
     "slug": "dapo-kemdikbud",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "83.17%",
+    "uptimeDay": "84.09%",
     "uptimeWeek": "91.20%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.64%",
@@ -76,11 +76,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "89.32%",
+    "uptimeDay": "89.28%",
     "uptimeWeek": "95.07%",
-    "uptimeMonth": "97.24%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "99.77%",
     "time": 1751,
     "timeDay": 1938,
@@ -88,7 +88,7 @@
     "timeMonth": 1502,
     "timeYear": 1708,
     "dailyMinutesDown": {
-      "2021-12-02": 80,
+      "2021-12-02": 81,
       "2021-12-01": 108,
       "2021-11-30": 54,
       "2021-11-29": 85,
@@ -107,7 +107,7 @@
       "2021-11-16": 53,
       "2021-11-15": 79,
       "2021-11-14": 28,
-      "2021-11-13": 17
+      "2021-11-13": 10
     }
   },
   {
@@ -393,14 +393,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.60%",
+    "uptimeYear": "78.59%",
     "time": 7379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7429,
     "dailyMinutesDown": {
-      "2021-12-02": 640,
+      "2021-12-02": 654,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
@@ -1233,7 +1233,7 @@
     "timeMonth": 0,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2021-12-02": 641,
+      "2021-12-02": 654,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
