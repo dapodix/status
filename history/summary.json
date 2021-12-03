@@ -4,11 +4,11 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/dapo.kemdikbud.go.id",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "90.99%",
-    "uptimeMonth": "96.86%",
+    "uptimeMonth": "96.85%",
     "uptimeYear": "99.64%",
     "time": 3072,
     "timeDay": 2156,
@@ -16,7 +16,7 @@
     "timeMonth": 2342,
     "timeYear": 3079,
     "dailyMinutesDown": {
-      "2021-12-03": 15,
+      "2021-12-03": 16,
       "2021-12-02": 11,
       "2021-12-01": 822,
       "2021-11-29": 5,
@@ -67,8 +67,7 @@
       "2021-10-05": 6,
       "2021-10-04": 40,
       "2021-10-03": 36,
-      "2021-10-02": 13,
-      "2021-10-01": 5
+      "2021-10-02": 13
     }
   },
   {
@@ -78,14 +77,14 @@
     "slug": "sp-datadik",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "92.37%",
+    "uptimeDay": "92.67%",
     "uptimeWeek": "94.69%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "99.77%",
     "time": 1748,
-    "timeDay": 1770,
+    "timeDay": 1334,
     "timeWeek": 1716,
-    "timeMonth": 1484,
+    "timeMonth": 1487,
     "timeYear": 1705,
     "dailyMinutesDown": {
       "2021-12-03": 55,
@@ -399,7 +398,7 @@
     "timeMonth": 0,
     "timeYear": 7432,
     "dailyMinutesDown": {
-      "2021-12-03": 635,
+      "2021-12-03": 646,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
@@ -666,7 +665,7 @@
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
     "status": "up",
-    "uptime": "32.22%",
+    "uptime": "32.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
@@ -1233,7 +1232,7 @@
     "timeMonth": 0,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2021-12-03": 636,
+      "2021-12-03": 647,
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
