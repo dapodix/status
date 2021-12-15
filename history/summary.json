@@ -75,11 +75,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "97.35%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "97.36%",
     "uptimeYear": "99.78%",
     "time": 1743,
     "timeDay": 3231,
@@ -87,7 +87,7 @@
     "timeMonth": 1625,
     "timeYear": 1707,
     "dailyMinutesDown": {
-      "2021-12-15": 71,
+      "2021-12-15": 72,
       "2021-12-14": 62,
       "2021-12-13": 24,
       "2021-12-12": 41,
@@ -102,7 +102,7 @@
       "2021-12-03": 98,
       "2021-12-02": 131,
       "2021-12-01": 108,
-      "2021-11-30": 32
+      "2021-11-30": 26
     }
   },
   {
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 7490,
     "dailyMinutesDown": {
-      "2021-12-15": 1242,
+      "2021-12-15": 1254,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -580,7 +580,7 @@
     "uptime": "96.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.35%",
+    "uptimeMonth": "69.32%",
     "uptimeYear": "96.35%",
     "time": 3272,
     "timeDay": 0,
@@ -588,7 +588,7 @@
     "timeMonth": 3055,
     "timeYear": 3273,
     "dailyMinutesDown": {
-      "2021-12-15": 1242,
+      "2021-12-15": 1254,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -1234,7 +1234,7 @@
     "timeMonth": 0,
     "timeYear": 2539,
     "dailyMinutesDown": {
-      "2021-12-15": 1243,
+      "2021-12-15": 1254,
       "2021-12-14": 1440,
       "2021-12-13": 1440,
       "2021-12-12": 1440,
@@ -1422,7 +1422,7 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "67.55%",
+    "uptime": "67.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "75.26%",
     "uptimeMonth": "94.31%",
