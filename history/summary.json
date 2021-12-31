@@ -246,11 +246,11 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/bos.kemdikbud.go.id",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "86.76%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "96.36%",
+    "uptimeDay": "86.70%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "99.55%",
     "time": 3339,
     "timeDay": 13995,
@@ -258,7 +258,7 @@
     "timeMonth": 6087,
     "timeYear": 3432,
     "dailyMinutesDown": {
-      "2021-12-31": 191,
+      "2021-12-31": 192,
       "2021-12-30": 131,
       "2021-12-24": 377,
       "2021-12-23": 489,
@@ -306,7 +306,7 @@
       "2021-10-20": 35,
       "2021-10-19": 16,
       "2021-10-18": 31,
-      "2021-10-17": 39
+      "2021-10-17": 27
     }
   },
   {
@@ -383,7 +383,7 @@
     "timeMonth": 0,
     "timeYear": 7565,
     "dailyMinutesDown": {
-      "2021-12-31": 881,
+      "2021-12-31": 888,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -601,7 +601,7 @@
     "uptime": "92.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.46%",
+    "uptimeMonth": "19.44%",
     "uptimeYear": "92.33%",
     "time": 3272,
     "timeDay": 0,
@@ -609,7 +609,7 @@
     "timeMonth": 2966,
     "timeYear": 3218,
     "dailyMinutesDown": {
-      "2021-12-31": 881,
+      "2021-12-31": 888,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
@@ -1257,7 +1257,7 @@
     "timeMonth": 0,
     "timeYear": 3143,
     "dailyMinutesDown": {
-      "2021-12-31": 881,
+      "2021-12-31": 888,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
