@@ -81,7 +81,7 @@
     "time": 1695,
     "timeDay": 1293,
     "timeWeek": 1258,
-    "timeMonth": 1448,
+    "timeMonth": 1234,
     "timeYear": 1700,
     "dailyMinutesDown": {
       "2021-12-31": 5,
@@ -387,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 7641,
     "dailyMinutesDown": {
-      "2022-01-22": 1345,
+      "2022-01-22": 1355,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
@@ -638,7 +638,7 @@
     "timeMonth": 0,
     "timeYear": 3223,
     "dailyMinutesDown": {
-      "2022-01-22": 1345,
+      "2022-01-22": 1355,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
@@ -755,10 +755,10 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "83.53%",
-    "uptimeWeek": "72.34%",
+    "uptimeDay": "83.43%",
+    "uptimeWeek": "72.32%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "98.68%",
     "time": 5255,
@@ -767,7 +767,7 @@
     "timeMonth": 9256,
     "timeYear": 5712,
     "dailyMinutesDown": {
-      "2022-01-22": 225,
+      "2022-01-22": 226,
       "2022-01-21": 237,
       "2022-01-20": 271,
       "2022-01-19": 717,
@@ -794,7 +794,7 @@
       "2021-10-08": 34,
       "2021-09-27": 24,
       "2021-09-21": 11,
-      "2021-09-11": 24
+      "2021-09-11": 5
     }
   },
   {
@@ -805,8 +805,8 @@
     "status": "down",
     "uptime": "98.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.21%",
-    "uptimeMonth": "87.92%",
+    "uptimeWeek": "48.11%",
+    "uptimeMonth": "87.89%",
     "uptimeYear": "98.26%",
     "time": 2074,
     "timeDay": 0,
@@ -814,7 +814,7 @@
     "timeMonth": 1539,
     "timeYear": 2044,
     "dailyMinutesDown": {
-      "2022-01-22": 1345,
+      "2022-01-22": 1356,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 817,
@@ -1034,7 +1034,7 @@
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
     "status": "down",
-    "uptime": "59.26%",
+    "uptime": "59.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1045,7 +1045,7 @@
     "timeMonth": 0,
     "timeYear": 3134,
     "dailyMinutesDown": {
-      "2022-01-22": 1346,
+      "2022-01-22": 1356,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
