@@ -380,14 +380,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.49%",
+    "uptimeYear": "64.48%",
     "time": 7379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7641,
     "dailyMinutesDown": {
-      "2022-01-22": 1360,
+      "2022-01-22": 1367,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
@@ -638,7 +638,7 @@
     "timeMonth": 0,
     "timeYear": 3223,
     "dailyMinutesDown": {
-      "2022-01-22": 1360,
+      "2022-01-22": 1367,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
@@ -755,10 +755,10 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "83.32%",
-    "uptimeWeek": "72.29%",
+    "uptimeDay": "83.69%",
+    "uptimeWeek": "72.27%",
     "uptimeMonth": "93.36%",
     "uptimeYear": "98.68%",
     "time": 5273,
@@ -767,7 +767,7 @@
     "timeMonth": 9267,
     "timeYear": 5731,
     "dailyMinutesDown": {
-      "2022-01-22": 230,
+      "2022-01-22": 231,
       "2022-01-21": 237,
       "2022-01-20": 271,
       "2022-01-19": 717,
@@ -793,8 +793,7 @@
       "2021-10-09": 101,
       "2021-10-08": 34,
       "2021-09-27": 24,
-      "2021-09-21": 11,
-      "2021-09-11": 5
+      "2021-09-21": 11
     }
   },
   {
@@ -805,8 +804,8 @@
     "status": "down",
     "uptime": "98.48%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.06%",
-    "uptimeMonth": "87.88%",
+    "uptimeWeek": "48.00%",
+    "uptimeMonth": "87.87%",
     "uptimeYear": "98.26%",
     "time": 2074,
     "timeDay": 0,
@@ -814,7 +813,7 @@
     "timeMonth": 1539,
     "timeYear": 2044,
     "dailyMinutesDown": {
-      "2022-01-22": 1361,
+      "2022-01-22": 1367,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 817,
@@ -1045,7 +1044,7 @@
     "timeMonth": 0,
     "timeYear": 3134,
     "dailyMinutesDown": {
-      "2022-01-22": 1361,
+      "2022-01-22": 1367,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
