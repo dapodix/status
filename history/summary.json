@@ -389,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 7665,
     "dailyMinutesDown": {
-      "2022-01-28": 1243,
+      "2022-01-28": 1254,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
@@ -648,7 +648,7 @@
     "timeMonth": 0,
     "timeYear": 3240,
     "dailyMinutesDown": {
-      "2022-01-28": 1243,
+      "2022-01-28": 1255,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
@@ -769,11 +769,11 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "78.35%",
-    "uptimeWeek": "84.76%",
-    "uptimeMonth": "96.16%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "84.74%",
+    "uptimeMonth": "96.19%",
     "uptimeYear": "99.68%",
     "time": 6944,
     "timeDay": 10696,
@@ -781,14 +781,14 @@
     "timeMonth": 11127,
     "timeYear": 7493,
     "dailyMinutesDown": {
-      "2022-01-28": 259,
+      "2022-01-28": 260,
       "2022-01-27": 150,
       "2022-01-26": 171,
       "2022-01-25": 214,
       "2022-01-24": 197,
       "2022-01-23": 256,
       "2022-01-22": 235,
-      "2022-01-21": 205
+      "2022-01-21": 188
     }
   },
   {
@@ -799,7 +799,7 @@
     "status": "up",
     "uptime": "98.17%",
     "uptimeDay": "95.80%",
-    "uptimeWeek": "64.31%",
+    "uptimeWeek": "64.42%",
     "uptimeMonth": "83.23%",
     "uptimeYear": "97.88%",
     "time": 2069,
@@ -1024,7 +1024,7 @@
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
     "status": "down",
-    "uptime": "58.43%",
+    "uptime": "58.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1035,7 +1035,7 @@
     "timeMonth": 0,
     "timeYear": 3139,
     "dailyMinutesDown": {
-      "2022-01-28": 1243,
+      "2022-01-28": 1255,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
