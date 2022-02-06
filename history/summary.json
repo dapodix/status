@@ -383,7 +383,7 @@
     "timeMonth": 0,
     "timeYear": 7693,
     "dailyMinutesDown": {
-      "2022-02-06": 1128,
+      "2022-02-06": 1133,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
@@ -556,7 +556,7 @@
     "status": "up",
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.60%",
+    "uptimeWeek": "60.65%",
     "uptimeMonth": "84.81%",
     "uptimeYear": "97.85%",
     "time": 1622,
@@ -657,7 +657,7 @@
     "timeMonth": 0,
     "timeYear": 3250,
     "dailyMinutesDown": {
-      "2022-02-06": 1128,
+      "2022-02-06": 1133,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
@@ -784,11 +784,11 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "77.96%",
-    "uptimeWeek": "82.33%",
-    "uptimeMonth": "95.93%",
+    "uptimeDay": "78.21%",
+    "uptimeWeek": "82.36%",
+    "uptimeMonth": "95.94%",
     "uptimeYear": "99.66%",
     "time": 8622,
     "timeDay": 14081,
@@ -796,12 +796,12 @@
     "timeMonth": 12098,
     "timeYear": 9124,
     "dailyMinutesDown": {
-      "2022-02-06": 151,
+      "2022-02-06": 152,
       "2022-02-05": 280,
       "2022-02-04": 242,
       "2022-02-03": 198,
       "2022-02-02": 669,
-      "2022-02-01": 238
+      "2022-02-01": 234
     }
   },
   {
@@ -1043,7 +1043,7 @@
     "timeMonth": 0,
     "timeYear": 3137,
     "dailyMinutesDown": {
-      "2022-02-06": 1128,
+      "2022-02-06": 1134,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
