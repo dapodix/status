@@ -376,14 +376,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.64%",
+    "uptimeYear": "60.63%",
     "time": 7379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7693,
     "dailyMinutesDown": {
-      "2022-02-05": 1416,
+      "2022-02-06": 5,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -645,7 +646,7 @@
     "icon": "https://favicons.githubusercontent.com/vervalptk.data.kemdikbud.go.id",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "84.83%",
+    "uptime": "84.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -656,7 +657,8 @@
     "timeMonth": 0,
     "timeYear": 3250,
     "dailyMinutesDown": {
-      "2022-02-05": 1416,
+      "2022-02-06": 5,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -782,24 +784,25 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "79.81%",
-    "uptimeMonth": "95.35%",
+    "uptimeDay": "80.39%",
+    "uptimeWeek": "79.84%",
+    "uptimeMonth": "95.36%",
     "uptimeYear": "99.61%",
     "time": 8467,
-    "timeDay": 10981,
-    "timeWeek": 12170,
+    "timeDay": 11134,
+    "timeWeek": 12221,
     "timeMonth": 11985,
     "timeYear": 8970,
     "dailyMinutesDown": {
+      "2022-02-06": 1,
       "2022-02-05": 280,
       "2022-02-04": 242,
       "2022-02-03": 198,
       "2022-02-02": 669,
       "2022-02-01": 464,
-      "2022-01-31": 180
+      "2022-01-31": 175
     }
   },
   {
@@ -901,7 +904,7 @@
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "verval-ijazah",
     "status": "up",
-    "uptime": "63.96%",
+    "uptime": "63.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1021,8 +1024,7 @@
       "2021-02-10": 1440,
       "2021-02-09": 1440,
       "2021-02-08": 1440,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   },
   {
@@ -1031,7 +1033,7 @@
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
     "status": "down",
-    "uptime": "57.33%",
+    "uptime": "57.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1042,7 +1044,8 @@
     "timeMonth": 0,
     "timeYear": 3135,
     "dailyMinutesDown": {
-      "2022-02-05": 1416,
+      "2022-02-06": 5,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -1263,8 +1266,7 @@
       "2021-03-08": 33,
       "2021-03-07": 44,
       "2021-02-28": 15,
-      "2021-02-20": 123,
-      "2021-02-06": 911
+      "2021-02-20": 123
     }
   },
   {
@@ -1273,7 +1275,7 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "71.47%",
+    "uptime": "71.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
