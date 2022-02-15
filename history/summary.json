@@ -119,13 +119,13 @@
     "slug": "ptk-datadik",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "91.36%",
-    "uptimeWeek": "95.17%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "95.25%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.78%",
     "time": 2031,
-    "timeDay": 10009,
-    "timeWeek": 6804,
+    "timeDay": 10737,
+    "timeWeek": 6911,
     "timeMonth": 5526,
     "timeYear": 2122,
     "dailyMinutesDown": {
@@ -349,7 +349,7 @@
     "timeMonth": 0,
     "timeYear": 7726,
     "dailyMinutesDown": {
-      "2022-02-15": 468,
+      "2022-02-15": 480,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -637,7 +637,7 @@
     "timeMonth": 0,
     "timeYear": 3255,
     "dailyMinutesDown": {
-      "2022-02-15": 469,
+      "2022-02-15": 480,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -773,11 +773,11 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "95.89%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "95.95%",
     "uptimeYear": "99.66%",
     "time": 8546,
     "timeDay": 1834,
@@ -785,6 +785,7 @@
     "timeMonth": 12047,
     "timeYear": 9019,
     "dailyMinutesDown": {
+      "2022-02-15": 1,
       "2022-02-14": 55,
       "2022-02-11": 160,
       "2022-02-10": 7,
@@ -794,7 +795,7 @@
       "2022-02-05": 280,
       "2022-02-04": 242,
       "2022-02-03": 198,
-      "2022-02-02": 492
+      "2022-02-02": 464
     }
   },
   {
@@ -1028,7 +1029,7 @@
     "timeMonth": 0,
     "timeYear": 3137,
     "dailyMinutesDown": {
-      "2022-02-15": 469,
+      "2022-02-15": 480,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
