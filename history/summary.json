@@ -117,19 +117,19 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "90.51%",
+    "uptimeDay": "90.45%",
     "uptimeWeek": "95.08%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.78%",
-    "time": 2038,
+    "time": 2039,
     "timeDay": 9541,
     "timeWeek": 6785,
     "timeMonth": 5492,
     "timeYear": 2127,
     "dailyMinutesDown": {
-      "2022-02-15": 106,
+      "2022-02-15": 107,
       "2022-02-14": 127,
       "2022-02-10": 103,
       "2022-02-09": 148,
@@ -151,8 +151,7 @@
       "2021-12-14": 5,
       "2021-12-13": 11,
       "2021-12-12": 14,
-      "2021-12-08": 10,
-      "2021-12-06": 5
+      "2021-12-08": 10
     }
   },
   {
@@ -347,7 +346,7 @@
     "timeMonth": 0,
     "timeYear": 7726,
     "dailyMinutesDown": {
-      "2022-02-15": 634,
+      "2022-02-15": 644,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -635,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 3255,
     "dailyMinutesDown": {
-      "2022-02-15": 635,
+      "2022-02-15": 644,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -1016,7 +1015,7 @@
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
     "status": "down",
-    "uptime": "56.10%",
+    "uptime": "56.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1027,7 +1026,7 @@
     "timeMonth": 0,
     "timeYear": 3137,
     "dailyMinutesDown": {
-      "2022-02-15": 635,
+      "2022-02-15": 644,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -1267,7 +1266,7 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "72.08%",
+    "uptime": "72.09%",
     "uptimeDay": "99.22%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
