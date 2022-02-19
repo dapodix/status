@@ -159,10 +159,10 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "info-gtk",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "76.61%",
-    "uptimeWeek": "96.66%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "76.55%",
+    "uptimeWeek": "96.65%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.42%",
     "time": 4224,
@@ -171,7 +171,7 @@
     "timeMonth": 9654,
     "timeYear": 4224,
     "dailyMinutesDown": {
-      "2022-02-19": 336,
+      "2022-02-19": 337,
       "2022-02-09": 5,
       "2022-01-19": 5,
       "2021-12-28": 7,
@@ -201,7 +201,7 @@
       "2021-09-23": 4,
       "2021-09-21": 100,
       "2021-09-20": 115,
-      "2021-09-18": 12
+      "2021-09-18": 6
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 7746,
     "dailyMinutesDown": {
-      "2022-02-19": 1368,
+      "2022-02-19": 1372,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -636,7 +636,7 @@
     "timeMonth": 0,
     "timeYear": 3254,
     "dailyMinutesDown": {
-      "2022-02-19": 1368,
+      "2022-02-19": 1373,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -809,7 +809,7 @@
     "uptime": "97.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
-    "uptimeMonth": "73.52%",
+    "uptimeMonth": "73.53%",
     "uptimeYear": "96.97%",
     "time": 2046,
     "timeDay": 1884,
@@ -901,9 +901,9 @@
     "slug": "verval-ijazah",
     "status": "down",
     "uptime": "65.05%",
-    "uptimeDay": "78.86%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "99.31%",
+    "uptimeDay": "78.56%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "79.36%",
     "time": 3657,
     "timeDay": 13112,
@@ -911,7 +911,7 @@
     "timeMonth": 6456,
     "timeYear": 3657,
     "dailyMinutesDown": {
-      "2022-02-19": 306,
+      "2022-02-19": 310,
       "2021-12-24": 126,
       "2021-12-13": 5,
       "2021-11-17": 250,
@@ -1028,7 +1028,7 @@
     "timeMonth": 0,
     "timeYear": 3136,
     "dailyMinutesDown": {
-      "2022-02-19": 1368,
+      "2022-02-19": 1373,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
