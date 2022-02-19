@@ -159,19 +159,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "89.70%",
-    "uptimeWeek": "98.53%",
+    "uptimeDay": "89.59%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.41%",
-    "time": 3624,
-    "timeDay": 8788,
-    "timeWeek": 6703,
-    "timeMonth": 4672,
-    "timeYear": 3624,
+    "uptimeYear": "99.42%",
+    "time": 3621,
+    "timeDay": 8331,
+    "timeWeek": 6466,
+    "timeMonth": 4609,
+    "timeYear": 3621,
     "dailyMinutesDown": {
-      "2022-02-19": 148,
+      "2022-02-19": 150,
       "2022-02-09": 5,
       "2022-01-19": 5,
       "2021-12-28": 7,
@@ -204,7 +204,7 @@
       "2021-09-18": 12,
       "2021-09-17": 69,
       "2021-09-16": 115,
-      "2021-09-15": 38
+      "2021-09-15": 30
     }
   },
   {
@@ -346,7 +346,7 @@
     "timeMonth": 0,
     "timeYear": 7742,
     "dailyMinutesDown": {
-      "2022-02-19": 584,
+      "2022-02-19": 589,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -639,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 3254,
     "dailyMinutesDown": {
-      "2022-02-19": 584,
+      "2022-02-19": 589,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -1031,7 +1031,7 @@
     "timeMonth": 0,
     "timeYear": 3136,
     "dailyMinutesDown": {
-      "2022-02-19": 585,
+      "2022-02-19": 589,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
