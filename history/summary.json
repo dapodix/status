@@ -346,7 +346,7 @@
     "timeMonth": 0,
     "timeYear": 7742,
     "dailyMinutesDown": {
-      "2022-02-19": 537,
+      "2022-02-19": 543,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -639,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 3254,
     "dailyMinutesDown": {
-      "2022-02-19": 537,
+      "2022-02-19": 543,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
@@ -786,7 +786,7 @@
     "time": 8473,
     "timeDay": 1822,
     "timeWeek": 2051,
-    "timeMonth": 12155,
+    "timeMonth": 12143,
     "timeYear": 8935,
     "dailyMinutesDown": {
       "2022-02-18": 41,
@@ -902,10 +902,10 @@
     "url": "https://info.gtk.kemdikbud.go.id/verval_s1/index.php",
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "verval-ijazah",
-    "status": "up",
+    "status": "down",
     "uptime": "65.03%",
-    "uptimeDay": "91.27%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "79.24%",
     "time": 3256,
@@ -914,7 +914,7 @@
     "timeMonth": 3327,
     "timeYear": 3256,
     "dailyMinutesDown": {
-      "2022-02-19": 126,
+      "2022-02-19": 127,
       "2021-12-24": 126,
       "2021-12-13": 5,
       "2021-11-17": 250,
@@ -1031,7 +1031,7 @@
     "timeMonth": 0,
     "timeYear": 3136,
     "dailyMinutesDown": {
-      "2022-02-19": 537,
+      "2022-02-19": 543,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
