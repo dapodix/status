@@ -1,7 +1,7 @@
 url: https://info.gtk.kemdikbud.go.id/verval_s1/index.php
-status: up
-code: 200
-responseTime: 22372
-lastUpdated: 2022-02-19T07:23:18.244Z
+status: down
+code: 502
+responseTime: 732
+lastUpdated: 2022-02-19T07:34:57.780Z
 startTime: Tue Dec 01 2020 14:27:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
