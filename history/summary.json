@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 7766,
     "dailyMinutesDown": {
-      "2022-02-24": 181,
+      "2022-02-24": 197,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
@@ -530,18 +530,19 @@
     "url": "http://vervalsp.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalsp.data.kemdikbud.go.id",
     "slug": "verval-sp",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "88.00%",
-    "uptimeYear": "97.82%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "97.83%",
     "time": 1656,
     "timeDay": 1294,
     "timeWeek": 4243,
     "timeMonth": 2452,
     "timeYear": 1689,
     "dailyMinutesDown": {
+      "2022-02-24": 5,
       "2022-02-18": 44,
       "2022-02-14": 68,
       "2022-02-10": 10,
@@ -619,8 +620,7 @@
       "2021-05-03": 1048,
       "2021-04-28": 16,
       "2021-03-08": 34,
-      "2021-03-03": 69,
-      "2021-02-26": 57
+      "2021-03-03": 69
     }
   },
   {
@@ -640,7 +640,7 @@
     "timeMonth": 1963,
     "timeYear": 3222,
     "dailyMinutesDown": {
-      "2022-02-24": 181,
+      "2022-02-24": 198,
       "2022-02-23": 1185,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
@@ -783,11 +783,11 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "96.40%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "99.70%",
     "time": 8414,
     "timeDay": 2089,
@@ -795,6 +795,7 @@
     "timeMonth": 11560,
     "timeYear": 8867,
     "dailyMinutesDown": {
+      "2022-02-24": 2,
       "2022-02-18": 41,
       "2022-02-15": 12,
       "2022-02-14": 55,
@@ -806,7 +807,7 @@
       "2022-02-05": 280,
       "2022-02-04": 242,
       "2022-02-03": 198,
-      "2022-02-02": 216
+      "2022-02-02": 212
     }
   },
   {
@@ -814,18 +815,19 @@
     "url": "https://vervalponsel.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalponsel.data.kemdikbud.go.id",
     "slug": "verval-ponsel",
-    "status": "up",
+    "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "87.25%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "87.28%",
     "uptimeYear": "96.97%",
-    "time": 2044,
+    "time": 2045,
     "timeDay": 1897,
     "timeWeek": 1800,
     "timeMonth": 1697,
     "timeYear": 1968,
     "dailyMinutesDown": {
+      "2022-02-24": 1,
       "2022-02-18": 40,
       "2022-02-15": 10,
       "2022-02-14": 54,
@@ -899,8 +901,7 @@
       "2021-05-10": 76,
       "2021-05-09": 26,
       "2021-05-07": 33,
-      "2021-05-03": 117,
-      "2021-04-28": 22
+      "2021-05-03": 117
     }
   },
   {
@@ -1033,7 +1034,7 @@
     "timeMonth": 0,
     "timeYear": 3125,
     "dailyMinutesDown": {
-      "2022-02-24": 181,
+      "2022-02-24": 198,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
