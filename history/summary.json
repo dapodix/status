@@ -169,11 +169,11 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "95.99%",
-    "uptimeDay": "94.83%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "50.75%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "50.76%",
     "uptimeYear": "94.71%",
     "time": 4547,
     "timeDay": 4892,
@@ -181,7 +181,7 @@
     "timeMonth": 7346,
     "timeYear": 4547,
     "dailyMinutesDown": {
-      "2022-03-28": 74,
+      "2022-03-28": 75,
       "2022-03-23": 53,
       "2022-03-21": 91,
       "2022-03-18": 207,
@@ -230,8 +230,7 @@
       "2021-10-11": 154,
       "2021-10-08": 32,
       "2021-10-06": 139,
-      "2021-10-05": 23,
-      "2021-10-01": 33
+      "2021-10-05": 23
     }
   },
   {
@@ -378,7 +377,7 @@
     "timeMonth": 0,
     "timeYear": 7917,
     "dailyMinutesDown": {
-      "2022-03-28": 354,
+      "2022-03-28": 360,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
@@ -695,7 +694,7 @@
     "timeMonth": 0,
     "timeYear": 3207,
     "dailyMinutesDown": {
-      "2022-03-28": 354,
+      "2022-03-28": 360,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
@@ -1004,8 +1003,8 @@
     "slug": "verval-ijazah",
     "status": "down",
     "uptime": "96.19%",
-    "uptimeDay": "92.34%",
-    "uptimeWeek": "97.93%",
+    "uptimeDay": "91.93%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "50.82%",
     "uptimeYear": "94.97%",
     "time": 4056,
@@ -1014,7 +1013,7 @@
     "timeMonth": 6440,
     "timeYear": 4056,
     "dailyMinutesDown": {
-      "2022-03-28": 110,
+      "2022-03-28": 116,
       "2022-03-23": 98,
       "2022-03-21": 60,
       "2022-03-19": 21,
@@ -1078,7 +1077,7 @@
     "timeMonth": 0,
     "timeYear": 3136,
     "dailyMinutesDown": {
-      "2022-03-28": 355,
+      "2022-03-28": 361,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
