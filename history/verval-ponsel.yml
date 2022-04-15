@@ -1,7 +1,7 @@
 url: https://vervalponsel.data.kemdikbud.go.id/
-status: up
-code: 200
-responseTime: 1705
-lastUpdated: 2022-04-14T23:23:20.679Z
+status: down
+code: 500
+responseTime: 3018
+lastUpdated: 2022-04-15T05:53:12.092Z
 startTime: Tue Dec 01 2020 14:27:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
