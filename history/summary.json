@@ -374,7 +374,7 @@
     "icon": "https://favicons.githubusercontent.com/pemetaanmutu.paud-dikmas.kemdikbud.go.id",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "49.86%",
+    "uptime": "49.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -385,7 +385,7 @@
     "timeMonth": 0,
     "timeYear": 7650,
     "dailyMinutesDown": {
-      "2022-07-11": 1138,
+      "2022-07-11": 1164,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -710,19 +710,19 @@
     "url": "http://vervalsp.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalsp.data.kemdikbud.go.id",
     "slug": "verval-sp",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "96.14%",
-    "uptimeYear": "97.99%",
-    "time": 2343,
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "98.00%",
+    "time": 2345,
     "timeDay": 2531,
     "timeWeek": 3394,
     "timeMonth": 4311,
     "timeYear": 2602,
     "dailyMinutesDown": {
-      "2022-07-11": 5,
+      "2022-07-11": 7,
       "2022-07-07": 221,
       "2022-07-06": 35,
       "2022-07-04": 86,
@@ -790,8 +790,7 @@
       "2021-12-20": 17,
       "2021-12-19": 527,
       "2021-12-17": 45,
-      "2021-12-15": 273,
-      "2021-12-14": 16
+      "2021-12-15": 273
     }
   },
   {
@@ -811,7 +810,7 @@
     "timeMonth": 0,
     "timeYear": 3212,
     "dailyMinutesDown": {
-      "2022-07-11": 1139,
+      "2022-07-11": 1164,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -1075,11 +1074,11 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "96.32%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "96.31%",
     "uptimeYear": "99.33%",
     "time": 7187,
     "timeDay": 1469,
@@ -1087,7 +1086,7 @@
     "timeMonth": 2528,
     "timeYear": 7187,
     "dailyMinutesDown": {
-      "2022-07-11": 4,
+      "2022-07-11": 5,
       "2022-07-07": 206,
       "2022-07-06": 26,
       "2022-07-04": 86,
@@ -1138,7 +1137,7 @@
       "2022-02-09": 5,
       "2022-02-08": 30,
       "2022-02-06": 329,
-      "2022-02-05": 252
+      "2022-02-05": 248
     }
   },
   {
@@ -1314,7 +1313,7 @@
     "timeMonth": 0,
     "timeYear": 2798,
     "dailyMinutesDown": {
-      "2022-07-11": 1139,
+      "2022-07-11": 1165,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -1705,7 +1704,7 @@
     "icon": "https://favicons.githubusercontent.com/banpaudpnf.kemdikbud.go.id",
     "slug": "banpaud-and-pnf-sispena",
     "status": "up",
-    "uptime": "78.49%",
+    "uptime": "78.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
