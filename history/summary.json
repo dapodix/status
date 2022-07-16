@@ -79,19 +79,20 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "19.81%",
-    "uptimeWeek": "74.91%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "19.96%",
+    "uptimeWeek": "74.87%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "98.98%",
     "time": 1705,
-    "timeDay": 1294,
-    "timeWeek": 1740,
-    "timeMonth": 1719,
-    "timeYear": 1706,
+    "timeDay": 1202,
+    "timeWeek": 1649,
+    "timeMonth": 1689,
+    "timeYear": 1705,
     "dailyMinutesDown": {
-      "2022-07-15": 1151,
+      "2022-07-16": 0,
+      "2022-07-15": 1155,
       "2022-07-14": 1378,
       "2022-03-31": 23,
       "2022-03-29": 51,
@@ -128,18 +129,19 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://favicons.githubusercontent.com/ptk.datadik.kemdikbud.go.id",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "20.45%",
-    "uptimeWeek": "75.00%",
+    "uptimeDay": "20.79%",
+    "uptimeWeek": "74.99%",
     "uptimeMonth": "94.25%",
     "uptimeYear": "97.61%",
-    "time": 2195,
+    "time": 2196,
     "timeDay": 2661,
     "timeWeek": 2058,
     "timeMonth": 1812,
     "timeYear": 2310,
     "dailyMinutesDown": {
+      "2022-07-16": 1,
       "2022-07-15": 1142,
       "2022-07-14": 1378,
       "2022-03-31": 23,
@@ -166,7 +168,7 @@
       "2022-01-25": 75,
       "2021-12-31": 5,
       "2021-12-23": 23,
-      "2021-12-22": 10
+      "2021-12-22": 5
     }
   },
   {
@@ -384,7 +386,8 @@
     "timeMonth": 0,
     "timeYear": 7571,
     "dailyMinutesDown": {
-      "2022-07-15": 1437,
+      "2022-07-16": 3,
+      "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -802,7 +805,7 @@
     "icon": "https://favicons.githubusercontent.com/vervalptk.data.kemdikbud.go.id",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "61.91%",
+    "uptime": "61.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -813,7 +816,8 @@
     "timeMonth": 0,
     "timeYear": 3218,
     "dailyMinutesDown": {
-      "2022-07-15": 1437,
+      "2022-07-16": 3,
+      "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -1072,8 +1076,7 @@
       "2021-08-02": 5,
       "2021-07-20": 17,
       "2021-07-18": 34,
-      "2021-07-17": 124,
-      "2021-07-16": 4
+      "2021-07-17": 124
     }
   },
   {
@@ -1320,7 +1323,8 @@
     "timeMonth": 0,
     "timeYear": 2674,
     "dailyMinutesDown": {
-      "2022-07-15": 1437,
+      "2022-07-16": 3,
+      "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
@@ -1666,8 +1670,7 @@
       "2021-07-23": 779,
       "2021-07-22": 4,
       "2021-07-19": 24,
-      "2021-07-17": 117,
-      "2021-07-16": 6
+      "2021-07-17": 117
     }
   },
   {
@@ -1730,8 +1733,7 @@
       "2021-10-21": 46,
       "2021-08-10": 1303,
       "2021-08-09": 392,
-      "2021-07-17": 337,
-      "2021-07-16": 1440
+      "2021-07-17": 337
     }
   },
   {
