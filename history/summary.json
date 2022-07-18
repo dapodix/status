@@ -79,9 +79,9 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "62.81%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "62.76%",
     "uptimeWeek": "67.68%",
     "uptimeMonth": "92.56%",
     "uptimeYear": "98.90%",
@@ -91,7 +91,7 @@
     "timeMonth": 3961,
     "timeYear": 1822,
     "dailyMinutesDown": {
-      "2022-07-18": 498,
+      "2022-07-18": 499,
       "2022-07-17": 64,
       "2022-07-16": 162,
       "2022-07-15": 1155,
@@ -119,7 +119,7 @@
       "2021-12-12": 41,
       "2021-12-11": 24,
       "2021-12-10": 57,
-      "2021-12-09": 60
+      "2021-12-09": 50
     }
   },
   {
@@ -381,9 +381,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 7428,
+    "timeYear": 7417,
     "dailyMinutesDown": {
-      "2022-07-18": 835,
+      "2022-07-18": 873,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -719,12 +719,12 @@
     "uptime": "98.82%",
     "uptimeDay": "99.73%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "96.28%",
+    "uptimeMonth": "96.29%",
     "uptimeYear": "98.05%",
     "time": 2380,
     "timeDay": 2490,
     "timeWeek": 3588,
-    "timeMonth": 4444,
+    "timeMonth": 4466,
     "timeYear": 2652,
     "dailyMinutesDown": {
       "2022-07-18": 4,
@@ -804,7 +804,7 @@
     "icon": "https://favicons.githubusercontent.com/vervalptk.data.kemdikbud.go.id",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "61.64%",
+    "uptime": "61.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -815,7 +815,7 @@
     "timeMonth": 0,
     "timeYear": 3181,
     "dailyMinutesDown": {
-      "2022-07-18": 835,
+      "2022-07-18": 873,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
@@ -1323,7 +1323,7 @@
     "timeMonth": 0,
     "timeYear": 2654,
     "dailyMinutesDown": {
-      "2022-07-18": 835,
+      "2022-07-18": 874,
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
