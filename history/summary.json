@@ -6,7 +6,7 @@
     "slug": "dapo-kemdikbud",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "90.25%",
+    "uptimeDay": "94.56%",
     "uptimeWeek": "96.17%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.12%",
@@ -374,7 +374,7 @@
     "icon": "https://favicons.githubusercontent.com/pemetaanmutu.paud-dikmas.kemdikbud.go.id",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "48.62%",
+    "uptime": "48.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -385,7 +385,8 @@
     "timeMonth": 0,
     "timeYear": 6958,
     "dailyMinutesDown": {
-      "2022-07-26": 1420,
+      "2022-07-27": 145,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -711,8 +712,7 @@
       "2021-07-31": 1440,
       "2021-07-30": 1440,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   },
   {
@@ -810,18 +810,19 @@
     "icon": "https://favicons.githubusercontent.com/vervalptk.data.kemdikbud.go.id",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "60.78%",
+    "uptime": "60.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.95%",
+    "uptimeYear": "35.92%",
     "time": 3216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3128,
     "dailyMinutesDown": {
-      "2022-07-26": 1421,
+      "2022-07-27": 146,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -1262,7 +1263,7 @@
     "icon": "https://favicons.githubusercontent.com/info.gtk.kemdikbud.go.id",
     "slug": "verval-ijazah",
     "status": "up",
-    "uptime": "96.87%",
+    "uptime": "96.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1326,7 +1327,7 @@
     "icon": "https://favicons.githubusercontent.com/app.paud-dikmas.kemdikbud.go.id",
     "slug": "simdak-paud",
     "status": "down",
-    "uptime": "41.05%",
+    "uptime": "41.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1337,7 +1338,8 @@
     "timeMonth": 0,
     "timeYear": 2615,
     "dailyMinutesDown": {
-      "2022-07-26": 1421,
+      "2022-07-27": 146,
+      "2022-07-26": 1440,
       "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
@@ -1686,8 +1688,7 @@
       "2021-08-02": 16,
       "2021-07-30": 18,
       "2021-07-29": 1440,
-      "2021-07-28": 1440,
-      "2021-07-27": 1440
+      "2021-07-28": 1440
     }
   },
   {
