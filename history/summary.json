@@ -14,7 +14,7 @@
     "timeDay": 14196,
     "timeWeek": 9120,
     "timeMonth": 5999,
-    "timeYear": 2726,
+    "timeYear": 2721,
     "dailyMinutesDown": {
       "2022-08-10": 238,
       "2022-08-09": 126,
@@ -86,10 +86,10 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/sp.datadik.kemdikbud.go.id",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "67.69%",
-    "uptimeWeek": "91.20%",
+    "uptimeDay": "67.63%",
+    "uptimeWeek": "91.19%",
     "uptimeMonth": "88.53%",
     "uptimeYear": "98.65%",
     "time": 2052,
@@ -98,7 +98,7 @@
     "timeMonth": 5559,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2022-08-10": 463,
+      "2022-08-10": 464,
       "2022-08-09": 363,
       "2022-08-08": 60,
       "2022-08-03": 120,
@@ -124,8 +124,7 @@
       "2021-12-31": 5,
       "2021-12-23": 26,
       "2021-12-22": 72,
-      "2021-12-21": 25,
-      "2021-12-20": 6
+      "2021-12-21": 25
     }
   },
   {
@@ -189,7 +188,7 @@
     "timeDay": 3775,
     "timeWeek": 2739,
     "timeMonth": 2552,
-    "timeYear": 4616,
+    "timeYear": 4621,
     "dailyMinutesDown": {
       "2022-08-04": 72,
       "2022-07-28": 17,
@@ -268,7 +267,7 @@
     "timeDay": 4218,
     "timeWeek": 2754,
     "timeMonth": 3065,
-    "timeYear": 4238,
+    "timeYear": 4243,
     "dailyMinutesDown": {
       "2022-06-17": 9,
       "2022-06-13": 51,
@@ -337,7 +336,7 @@
     "timeDay": 3205,
     "timeWeek": 1579,
     "timeMonth": 2014,
-    "timeYear": 1161,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2022-03-31": 21,
       "2022-03-29": 51,
@@ -374,7 +373,7 @@
     "icon": "https://favicons.githubusercontent.com/pemetaanmutu.paud-dikmas.kemdikbud.go.id",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "47.46%",
+    "uptime": "47.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -383,9 +382,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 6944,
+    "timeYear": 6968,
     "dailyMinutesDown": {
-      "2022-08-10": 1427,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -724,15 +723,16 @@
     "uptime": "97.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.22%",
+    "uptimeMonth": "68.19%",
     "uptimeYear": "95.52%",
     "time": 2504,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 4317,
-    "timeYear": 2806,
+    "timeYear": 2809,
     "dailyMinutesDown": {
-      "2022-08-10": 1427,
+      "2022-08-11": 0,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -830,7 +830,8 @@
     "timeMonth": 0,
     "timeYear": 3126,
     "dailyMinutesDown": {
-      "2022-08-10": 1427,
+      "2022-08-11": 0,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -1108,8 +1109,7 @@
       "2021-08-26": 102,
       "2021-08-23": 5,
       "2021-08-21": 29,
-      "2021-08-20": 279,
-      "2021-08-11": 9
+      "2021-08-20": 279
     }
   },
   {
@@ -1121,7 +1121,7 @@
     "uptime": "98.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.30%",
+    "uptimeMonth": "68.27%",
     "uptimeYear": "96.69%",
     "time": 7046,
     "timeDay": 0,
@@ -1129,7 +1129,8 @@
     "timeMonth": 2726,
     "timeYear": 7046,
     "dailyMinutesDown": {
-      "2022-08-10": 1428,
+      "2022-08-11": 0,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -1204,7 +1205,7 @@
     "uptime": "96.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.34%",
+    "uptimeMonth": "68.31%",
     "uptimeYear": "93.96%",
     "time": 1968,
     "timeDay": 0,
@@ -1212,7 +1213,8 @@
     "timeMonth": 1840,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2022-08-10": 1428,
+      "2022-08-11": 0,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -1311,7 +1313,7 @@
     "timeDay": 285,
     "timeWeek": 664,
     "timeMonth": 806,
-    "timeYear": 3807,
+    "timeYear": 3812,
     "dailyMinutesDown": {
       "2022-08-04": 71,
       "2022-05-10": 23,
@@ -1375,9 +1377,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2295,
+    "timeYear": 2261,
     "dailyMinutesDown": {
-      "2022-08-10": 1428,
+      "2022-08-11": 1,
+      "2022-08-10": 1440,
       "2022-08-09": 1440,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
