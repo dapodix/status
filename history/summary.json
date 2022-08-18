@@ -97,7 +97,7 @@
     "time": 2411,
     "timeDay": 4354,
     "timeWeek": 7973,
-    "timeMonth": 6689,
+    "timeMonth": 6707,
     "timeYear": 2444,
     "dailyMinutesDown": {
       "2022-08-15": 439,
@@ -363,7 +363,7 @@
     "timeMonth": 0,
     "timeYear": 4399,
     "dailyMinutesDown": {
-      "2022-08-18": 571,
+      "2022-08-18": 583,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
@@ -702,7 +702,7 @@
     "uptime": "96.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.95%",
+    "uptimeMonth": "43.92%",
     "uptimeYear": "93.49%",
     "time": 2516,
     "timeDay": 0,
@@ -710,7 +710,7 @@
     "timeMonth": 4722,
     "timeYear": 2830,
     "dailyMinutesDown": {
-      "2022-08-18": 571,
+      "2022-08-18": 583,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
@@ -816,7 +816,7 @@
     "timeMonth": 0,
     "timeYear": 3141,
     "dailyMinutesDown": {
-      "2022-08-18": 571,
+      "2022-08-18": 583,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
@@ -1110,19 +1110,19 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://favicons.githubusercontent.com/vervalpd.data.kemdikbud.go.id",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "96.91%",
-    "uptimeDay": "10.82%",
-    "uptimeWeek": "1.55%",
+    "uptimeDay": "11.57%",
+    "uptimeWeek": "1.65%",
     "uptimeMonth": "44.37%",
-    "uptimeYear": "94.70%",
+    "uptimeYear": "94.71%",
     "time": 7073,
     "timeDay": 10293,
     "timeWeek": 10293,
     "timeMonth": 4993,
     "timeYear": 7073,
     "dailyMinutesDown": {
-      "2022-08-18": 415,
+      "2022-08-18": 416,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
@@ -1193,7 +1193,7 @@
       "2022-02-09": 5,
       "2022-02-08": 30,
       "2022-02-06": 329,
-      "2022-02-05": 156
+      "2022-02-05": 135
     }
   },
   {
@@ -1205,7 +1205,7 @@
     "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.01%",
+    "uptimeMonth": "43.98%",
     "uptimeYear": "91.93%",
     "time": 1972,
     "timeDay": 0,
@@ -1213,7 +1213,7 @@
     "timeMonth": 1691,
     "timeYear": 1973,
     "dailyMinutesDown": {
-      "2022-08-18": 571,
+      "2022-08-18": 583,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
@@ -1388,7 +1388,7 @@
     "timeMonth": 0,
     "timeYear": 2214,
     "dailyMinutesDown": {
-      "2022-08-18": 572,
+      "2022-08-18": 583,
       "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
