@@ -13,7 +13,7 @@
     "time": 3197,
     "timeDay": 6410,
     "timeWeek": 4004,
-    "timeMonth": 5100,
+    "timeMonth": 5058,
     "timeYear": 3371,
     "dailyMinutesDown": {
       "2022-11-09": 357,
@@ -97,12 +97,12 @@
     "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.93%",
+    "uptimeMonth": "88.52%",
     "uptimeYear": "96.94%",
     "time": 3203,
     "timeDay": 3843,
     "timeWeek": 3736,
-    "timeMonth": 3688,
+    "timeMonth": 3645,
     "timeYear": 3379,
     "dailyMinutesDown": {
       "2022-11-09": 379,
@@ -148,7 +148,7 @@
     "time": 3095,
     "timeDay": 5965,
     "timeWeek": 5181,
-    "timeMonth": 5631,
+    "timeMonth": 5621,
     "timeYear": 3388,
     "dailyMinutesDown": {
       "2022-11-09": 357,
@@ -211,7 +211,7 @@
     "time": 6610,
     "timeDay": 5658,
     "timeWeek": 4568,
-    "timeMonth": 9078,
+    "timeMonth": 9121,
     "timeYear": 6621,
     "dailyMinutesDown": {
       "2022-11-11": 266,
@@ -262,7 +262,7 @@
     "time": 3883,
     "timeDay": 1973,
     "timeWeek": 5947,
-    "timeMonth": 5381,
+    "timeMonth": 5474,
     "timeYear": 4128,
     "dailyMinutesDown": {
       "2022-11-10": 0,
@@ -332,12 +332,12 @@
     "uptime": "98.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.76%",
+    "uptimeMonth": "88.35%",
     "uptimeYear": "97.03%",
     "time": 1706,
     "timeDay": 4522,
     "timeWeek": 4199,
-    "timeMonth": 3727,
+    "timeMonth": 3674,
     "timeYear": 1961,
     "dailyMinutesDown": {
       "2022-11-09": 363,
@@ -364,8 +364,7 @@
       "2022-02-24": 5,
       "2021-12-13": 10,
       "2021-12-10": 5,
-      "2021-12-09": 17,
-      "2021-12-01": 17
+      "2021-12-09": 17
     }
   },
   {
@@ -374,10 +373,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pemetaanmutu.paud-dikmas.kemdikbud.go.id.ico",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "40.27%",
+    "uptime": "40.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 3644,
     "timeDay": 0,
@@ -385,7 +384,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 1428,
+      "2022-12-01": 120,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -748,8 +748,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   },
   {
@@ -758,18 +757,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalsp.data.kemdikbud.go.id.ico",
     "slug": "verval-sp",
     "status": "down",
-    "uptime": "82.64%",
+    "uptime": "82.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "64.83%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "64.81%",
     "time": 2914,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3239,
     "dailyMinutesDown": {
-      "2022-11-30": 1428,
+      "2022-12-01": 120,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -971,15 +971,16 @@
     "uptime": "50.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "1.72%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "1.70%",
     "time": 3168,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2396,
     "dailyMinutesDown": {
-      "2022-11-30": 1428,
+      "2022-12-01": 120,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -1338,8 +1339,7 @@
       "2021-12-09": 1440,
       "2021-12-08": 1440,
       "2021-12-07": 1244,
-      "2021-12-03": 11,
-      "2021-12-01": 25
+      "2021-12-03": 11
     }
   },
   {
@@ -1351,12 +1351,12 @@
     "uptime": "96.39%",
     "uptimeDay": "99.69%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "92.46%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "92.78%",
     "time": 6794,
     "timeDay": 4079,
     "timeWeek": 4332,
-    "timeMonth": 5333,
+    "timeMonth": 5377,
     "timeYear": 7351,
     "dailyMinutesDown": {
       "2022-11-30": 5,
@@ -1445,18 +1445,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
     "status": "down",
-    "uptime": "81.62%",
+    "uptime": "81.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "63.32%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "63.30%",
     "time": 1950,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1926,
     "dailyMinutesDown": {
-      "2022-11-30": 1429,
+      "2022-12-01": 121,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -1662,7 +1663,7 @@
     "time": 4638,
     "timeDay": 403,
     "timeWeek": 355,
-    "timeMonth": 6804,
+    "timeMonth": 6869,
     "timeYear": 4487,
     "dailyMinutesDown": {
       "2022-11-30": 5,
@@ -1706,7 +1707,7 @@
     "uptime": "33.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 2515,
     "timeDay": 0,
@@ -1714,7 +1715,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 1429,
+      "2022-12-01": 121,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -2077,8 +2079,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   },
   {
@@ -2095,7 +2096,7 @@
     "time": 1977,
     "timeDay": 1049,
     "timeWeek": 2328,
-    "timeMonth": 3695,
+    "timeMonth": 3637,
     "timeYear": 2279,
     "dailyMinutesDown": {
       "2022-11-18": 47,
@@ -2135,7 +2136,7 @@
     "time": 870,
     "timeDay": 1333,
     "timeWeek": 835,
-    "timeMonth": 736,
+    "timeMonth": 737,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2022-11-18": 48,
@@ -2169,7 +2170,7 @@
     "time": 1669,
     "timeDay": 767,
     "timeWeek": 2767,
-    "timeMonth": 3568,
+    "timeMonth": 3646,
     "timeYear": 1850,
     "dailyMinutesDown": {
       "2022-11-09": 1419,
