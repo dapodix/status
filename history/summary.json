@@ -74,18 +74,19 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sp.datadik.kemdikbud.go.id.ico",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "73.56%",
-    "uptimeWeek": "96.22%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "73.50%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "96.87%",
-    "time": 3558,
-    "timeDay": 3187,
-    "timeWeek": 3781,
-    "timeMonth": 2787,
-    "timeYear": 3976,
+    "time": 3554,
+    "timeDay": 2378,
+    "timeWeek": 3446,
+    "timeMonth": 2729,
+    "timeYear": 3970,
     "dailyMinutesDown": {
+      "2023-02-11": 1,
       "2023-02-10": 381,
       "2023-01-30": 15,
       "2023-01-25": 5,
@@ -116,7 +117,7 @@
       "2022-08-13": 249,
       "2022-08-12": 322,
       "2022-08-11": 583,
-      "2022-08-10": 19
+      "2022-08-10": 8
     }
   },
   {
@@ -124,18 +125,19 @@
     "url": "https://ptk.datadik.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/ptk.datadik.kemdikbud.go.id.ico",
     "slug": "ptk-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "73.56%",
-    "uptimeWeek": "96.22%",
+    "uptimeDay": "73.50%",
+    "uptimeWeek": "96.21%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "97.29%",
-    "time": 3578,
-    "timeDay": 1574,
-    "timeWeek": 3210,
-    "timeMonth": 3429,
-    "timeYear": 3510,
+    "time": 3579,
+    "timeDay": 1619,
+    "timeWeek": 3064,
+    "timeMonth": 3382,
+    "timeYear": 3506,
     "dailyMinutesDown": {
+      "2023-02-11": 1,
       "2023-02-10": 381,
       "2023-01-30": 15,
       "2023-01-25": 15,
@@ -374,7 +376,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 1439,
+      "2023-02-11": 44,
+      "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -737,8 +740,7 @@
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
-      "2022-02-12": 1440,
-      "2022-02-11": 1440
+      "2022-02-12": 1440
     }
   },
   {
@@ -749,7 +751,7 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.39%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "74.99%",
     "uptimeYear": "97.92%",
     "time": 4359,
@@ -798,7 +800,8 @@
     "timeMonth": 0,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2023-02-10": 1439,
+      "2023-02-11": 45,
+      "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1161,8 +1164,7 @@
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
-      "2022-02-12": 1440,
-      "2022-02-11": 1440
+      "2022-02-12": 1440
     }
   },
   {
@@ -1173,7 +1175,7 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.88%",
+    "uptimeWeek": "98.33%",
     "uptimeMonth": "75.87%",
     "uptimeYear": "97.98%",
     "time": 4914,
@@ -1214,18 +1216,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
     "status": "down",
-    "uptime": "80.69%",
+    "uptime": "80.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.82%",
-    "uptimeYear": "57.60%",
+    "uptimeMonth": "29.72%",
+    "uptimeYear": "57.59%",
     "time": 2105,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3134,
     "timeYear": 2147,
     "dailyMinutesDown": {
-      "2023-02-10": 1439,
+      "2023-02-11": 45,
+      "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1441,7 +1444,7 @@
     "uptime": "95.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.32%",
+    "uptimeMonth": "54.43%",
     "uptimeYear": "89.08%",
     "time": 4271,
     "timeDay": 287,
@@ -1537,7 +1540,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-10": 1439,
+      "2023-02-11": 45,
+      "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
@@ -1900,8 +1904,7 @@
       "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
-      "2022-02-12": 1440,
-      "2022-02-11": 1440
+      "2022-02-12": 1440
     }
   },
   {
