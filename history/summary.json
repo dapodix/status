@@ -13,7 +13,7 @@
     "time": 3564,
     "timeDay": 2428,
     "timeWeek": 3390,
-    "timeMonth": 4547,
+    "timeMonth": 4591,
     "timeYear": 4161,
     "dailyMinutesDown": {
       "2023-03-21": 25,
@@ -63,8 +63,7 @@
       "2022-06-25": 5,
       "2022-06-03": 165,
       "2022-04-01": 163,
-      "2022-03-31": 338,
-      "2022-03-29": 51
+      "2022-03-31": 338
     }
   },
   {
@@ -81,7 +80,7 @@
     "time": 3586,
     "timeDay": 1242,
     "timeWeek": 2185,
-    "timeMonth": 3372,
+    "timeMonth": 3429,
     "timeYear": 4103,
     "dailyMinutesDown": {
       "2023-03-17": 5,
@@ -133,7 +132,7 @@
     "time": 3579,
     "timeDay": 2424,
     "timeWeek": 3902,
-    "timeMonth": 4433,
+    "timeMonth": 4496,
     "timeYear": 3510,
     "dailyMinutesDown": {
       "2023-03-17": 5,
@@ -178,18 +177,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "97.74%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "97.73%",
     "uptimeMonth": "77.73%",
-    "uptimeYear": "96.98%",
-    "time": 6128,
+    "uptimeYear": "97.22%",
+    "time": 6106,
     "timeDay": 1738,
     "timeWeek": 1943,
-    "timeMonth": 3315,
+    "timeMonth": 3336,
     "timeYear": 5830,
     "dailyMinutesDown": {
+      "2023-03-29": 1,
       "2023-03-28": 47,
       "2023-03-27": 6,
       "2023-03-25": 174,
@@ -233,9 +233,7 @@
       "2022-10-12": 198,
       "2022-10-11": 158,
       "2022-10-07": 84,
-      "2022-10-06": 143,
-      "2022-10-05": 494,
-      "2022-10-04": 736
+      "2022-10-06": 143
     }
   },
   {
@@ -252,7 +250,7 @@
     "time": 3751,
     "timeDay": 2256,
     "timeWeek": 2779,
-    "timeMonth": 4113,
+    "timeMonth": 4034,
     "timeYear": 3727,
     "dailyMinutesDown": {
       "2023-03-17": 6,
@@ -326,7 +324,7 @@
     "time": 1993,
     "timeDay": 1141,
     "timeWeek": 937,
-    "timeMonth": 2103,
+    "timeMonth": 2180,
     "timeYear": 2386,
     "dailyMinutesDown": {
       "2023-03-17": 6,
@@ -352,8 +350,7 @@
       "2022-10-11": 30,
       "2022-09-09": 217,
       "2022-08-15": 8,
-      "2022-03-31": 21,
-      "2022-03-29": 51
+      "2022-03-31": 21
     }
   },
   {
@@ -362,10 +359,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pemetaanmutu.paud-dikmas.kemdikbud.go.id.ico",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "34.73%",
+    "uptime": "34.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -373,7 +370,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 1436,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -736,8 +734,7 @@
       "2022-04-02": 1440,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
-      "2022-03-30": 1440,
-      "2022-03-29": 1440
+      "2022-03-30": 1440
     }
   },
   {
@@ -748,16 +745,17 @@
     "status": "down",
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.44%",
-    "uptimeMonth": "77.35%",
+    "uptimeWeek": "53.07%",
+    "uptimeMonth": "77.26%",
     "uptimeYear": "95.93%",
     "time": 5131,
     "timeDay": 0,
     "timeWeek": 2803,
-    "timeMonth": 5092,
+    "timeMonth": 5131,
     "timeYear": 5336,
     "dailyMinutesDown": {
-      "2023-03-28": 1436,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 377,
@@ -801,7 +799,7 @@
     "uptime": "43.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 2481,
     "timeDay": 0,
@@ -809,7 +807,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 1436,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -1172,8 +1171,7 @@
       "2022-04-02": 1440,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
-      "2022-03-30": 1440,
-      "2022-03-29": 1440
+      "2022-03-30": 1440
     }
   },
   {
@@ -1184,16 +1182,17 @@
     "status": "down",
     "uptime": "98.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "53.49%",
-    "uptimeMonth": "89.27%",
-    "uptimeYear": "97.00%",
+    "uptimeWeek": "53.12%",
+    "uptimeMonth": "89.19%",
+    "uptimeYear": "96.99%",
     "time": 4123,
     "timeDay": 0,
     "timeWeek": 4670,
-    "timeMonth": 5244,
+    "timeMonth": 5105,
     "timeYear": 4310,
     "dailyMinutesDown": {
-      "2023-03-28": 1437,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 372,
@@ -1230,18 +1229,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
     "status": "down",
-    "uptime": "76.31%",
+    "uptime": "76.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
-    "uptimeYear": "45.12%",
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "45.11%",
     "time": 2148,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2224,
     "dailyMinutesDown": {
-      "2023-03-28": 1437,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -1469,8 +1469,7 @@
       "2022-04-21": 4,
       "2022-04-19": 5,
       "2022-04-15": 76,
-      "2022-03-31": 10,
-      "2022-03-29": 37
+      "2022-03-31": 10
     }
   },
   {
@@ -1479,18 +1478,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "92.21%",
+    "uptime": "92.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.90%",
-    "uptimeYear": "81.91%",
+    "uptimeMonth": "11.79%",
+    "uptimeYear": "81.90%",
     "time": 4294,
     "timeDay": 1117,
     "timeWeek": 927,
-    "timeMonth": 1131,
+    "timeMonth": 1092,
     "timeYear": 3846,
     "dailyMinutesDown": {
-      "2023-03-28": 1437,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -1600,7 +1600,7 @@
     "uptime": "29.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1608,7 +1608,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-28": 1437,
+      "2023-03-29": 34,
+      "2023-03-28": 1440,
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
@@ -1971,8 +1972,7 @@
       "2022-04-02": 1440,
       "2022-04-01": 1440,
       "2022-03-31": 1440,
-      "2022-03-30": 1440,
-      "2022-03-29": 1440
+      "2022-03-30": 1440
     }
   },
   {
@@ -1989,7 +1989,7 @@
     "time": 2347,
     "timeDay": 1303,
     "timeWeek": 2388,
-    "timeMonth": 3225,
+    "timeMonth": 3288,
     "timeYear": 2779,
     "dailyMinutesDown": {
       "2023-03-16": 10,
@@ -2030,7 +2030,7 @@
     "time": 841,
     "timeDay": 726,
     "timeWeek": 713,
-    "timeMonth": 686,
+    "timeMonth": 685,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2023-03-16": 10,
@@ -2066,7 +2066,7 @@
     "time": 1987,
     "timeDay": 949,
     "timeWeek": 1970,
-    "timeMonth": 2576,
+    "timeMonth": 2514,
     "timeYear": 2343,
     "dailyMinutesDown": {
       "2023-03-16": 14,
