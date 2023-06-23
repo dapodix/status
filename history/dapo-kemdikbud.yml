@@ -1,7 +1,7 @@
 url: https://dapo.kemdikbud.go.id/
-status: up
-code: 200
-responseTime: 3544
-lastUpdated: 2023-06-22T23:21:08.518Z
+status: down
+code: 503
+responseTime: 1448
+lastUpdated: 2023-06-23T06:48:06.045Z
 startTime: Sat Nov 21 2020 13:46:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
