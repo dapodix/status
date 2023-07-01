@@ -13,7 +13,7 @@
     "time": 3664,
     "timeDay": 4594,
     "timeWeek": 3135,
-    "timeMonth": 3188,
+    "timeMonth": 3200,
     "timeYear": 3946,
     "dailyMinutesDown": {
       "2023-06-30": 16,
@@ -158,7 +158,7 @@
     "time": 3288,
     "timeDay": 2321,
     "timeWeek": 2396,
-    "timeMonth": 2499,
+    "timeMonth": 2502,
     "timeYear": 3716,
     "dailyMinutesDown": {
       "2023-06-21": 5,
@@ -220,7 +220,7 @@
     "time": 5292,
     "timeDay": 1139,
     "timeWeek": 1401,
-    "timeMonth": 1427,
+    "timeMonth": 1430,
     "timeYear": 5852,
     "dailyMinutesDown": {
       "2023-06-21": 39,
@@ -291,7 +291,7 @@
     "time": 3359,
     "timeDay": 1565,
     "timeWeek": 1649,
-    "timeMonth": 1816,
+    "timeMonth": 1813,
     "timeYear": 3618,
     "dailyMinutesDown": {
       "2023-06-30": 13,
@@ -412,7 +412,7 @@
     "uptime": "31.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -420,7 +420,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 1426,
+      "2023-07-01": 121,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -783,8 +784,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -801,7 +801,7 @@
     "time": 5012,
     "timeDay": 2855,
     "timeWeek": 2837,
-    "timeMonth": 2972,
+    "timeMonth": 2970,
     "timeYear": 5410,
     "dailyMinutesDown": {
       "2023-06-30": 10,
@@ -893,7 +893,7 @@
     "uptime": "38.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1927,
     "timeDay": 0,
@@ -901,7 +901,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 1426,
+      "2023-07-01": 121,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1264,8 +1265,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -1274,7 +1274,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalpd.data.kemdikbud.go.id.ico",
     "slug": "verval-pd",
     "status": "up",
-    "uptime": "94.52%",
+    "uptime": "94.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -1282,7 +1282,7 @@
     "time": 4103,
     "timeDay": 1637,
     "timeWeek": 1891,
-    "timeMonth": 2063,
+    "timeMonth": 2058,
     "timeYear": 4405,
     "dailyMinutesDown": {
       "2023-06-21": 26,
@@ -1374,7 +1374,7 @@
     "time": 2043,
     "timeDay": 1098,
     "timeWeek": 1201,
-    "timeMonth": 1395,
+    "timeMonth": 1390,
     "timeYear": 2142,
     "dailyMinutesDown": {
       "2023-06-21": 29,
@@ -1644,18 +1644,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "83.00%",
+    "uptime": "82.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "56.15%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "56.13%",
     "time": 3688,
     "timeDay": 749,
     "timeWeek": 811,
-    "timeMonth": 880,
+    "timeMonth": 877,
     "timeYear": 3849,
     "dailyMinutesDown": {
-      "2023-06-30": 1426,
+      "2023-07-01": 121,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1859,7 +1860,7 @@
     "uptime": "26.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1867,7 +1868,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 1426,
+      "2023-07-01": 121,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -2230,8 +2232,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -2240,7 +2241,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/banpaudpnf.kemdikbud.go.id.ico",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "86.43%",
+    "uptime": "86.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.88%",
@@ -2281,7 +2282,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/banpaudpnf.kemdikbud.go.id.ico",
     "slug": "banpaud-and-pnf-sispena",
     "status": "up",
-    "uptime": "86.31%",
+    "uptime": "86.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.90%",
@@ -2289,7 +2290,7 @@
     "time": 823,
     "timeDay": 621,
     "timeWeek": 607,
-    "timeMonth": 723,
+    "timeMonth": 724,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2023-06-27": 29,
@@ -2328,7 +2329,7 @@
     "time": 2011,
     "timeDay": 757,
     "timeWeek": 869,
-    "timeMonth": 998,
+    "timeMonth": 993,
     "timeYear": 2330,
     "dailyMinutesDown": {
       "2023-06-21": 32,
