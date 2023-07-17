@@ -4,19 +4,19 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/dapo.kemdikbud.go.id.ico",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "89.46%",
+    "uptimeDay": "89.42%",
     "uptimeWeek": "89.65%",
     "uptimeMonth": "97.17%",
     "uptimeYear": "99.28%",
-    "time": 3932,
+    "time": 3935,
     "timeDay": 11391,
     "timeWeek": 15042,
     "timeMonth": 8406,
     "timeYear": 4429,
     "dailyMinutesDown": {
-      "2023-07-17": 130,
+      "2023-07-17": 131,
       "2023-07-16": 22,
       "2023-07-15": 71,
       "2023-07-14": 198,
@@ -75,8 +75,7 @@
       "2022-08-26": 132,
       "2022-08-25": 9,
       "2022-08-24": 82,
-      "2022-08-22": 78,
-      "2022-08-21": 9
+      "2022-08-22": 78
     }
   },
   {
@@ -417,7 +416,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 203,
+      "2023-07-17": 221,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -790,7 +789,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalsp.data.kemdikbud.go.id.ico",
     "slug": "verval-sp",
     "status": "up",
-    "uptime": "94.27%",
+    "uptime": "94.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
@@ -898,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 203,
+      "2023-07-17": 221,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -1646,7 +1645,7 @@
     "timeMonth": 868,
     "timeYear": 3845,
     "dailyMinutesDown": {
-      "2023-07-17": 203,
+      "2023-07-17": 221,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
@@ -1875,7 +1874,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 203,
+      "2023-07-17": 221,
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
