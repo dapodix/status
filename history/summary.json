@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "82.63%",
-    "uptimeWeek": "88.04%",
+    "uptimeWeek": "88.18%",
     "uptimeMonth": "94.60%",
     "uptimeYear": "99.18%",
     "time": 4234,
@@ -204,19 +204,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "6.69%",
-    "uptimeWeek": "56.97%",
+    "uptimeDay": "7.57%",
+    "uptimeWeek": "56.96%",
     "uptimeMonth": "89.48%",
-    "uptimeYear": "96.10%",
+    "uptimeYear": "96.11%",
     "time": 5170,
-    "timeDay": 1286,
-    "timeWeek": 1288,
-    "timeMonth": 1342,
-    "timeYear": 5752,
+    "timeDay": 1332,
+    "timeWeek": 1310,
+    "timeMonth": 1349,
+    "timeYear": 5745,
     "dailyMinutesDown": {
-      "2023-07-24": 216,
+      "2023-07-24": 217,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1236,
@@ -273,7 +273,7 @@
       "2022-12-15": 53,
       "2022-12-13": 5,
       "2022-11-11": 266,
-      "2022-11-10": 42
+      "2022-11-10": 38
     }
   },
   {
@@ -423,7 +423,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-24": 313,
+      "2023-07-24": 326,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -905,7 +905,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-24": 313,
+      "2023-07-24": 326,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -1653,7 +1653,7 @@
     "timeMonth": 859,
     "timeYear": 3844,
     "dailyMinutesDown": {
-      "2023-07-24": 313,
+      "2023-07-24": 326,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
@@ -1889,7 +1889,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-24": 313,
+      "2023-07-24": 327,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
