@@ -145,7 +145,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ptk.datadik.kemdikbud.go.id.ico",
     "slug": "ptk-datadik",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
@@ -282,10 +282,10 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "97.01%",
-    "uptimeDay": "85.60%",
-    "uptimeWeek": "74.37%",
+    "uptimeDay": "85.54%",
+    "uptimeWeek": "74.36%",
     "uptimeMonth": "94.02%",
     "uptimeYear": "92.00%",
     "time": 3400,
@@ -294,7 +294,7 @@
     "timeMonth": 2690,
     "timeYear": 3565,
     "dailyMinutesDown": {
-      "2023-07-25": 208,
+      "2023-07-25": 209,
       "2023-07-24": 182,
       "2023-07-20": 341,
       "2023-07-19": 1440,
@@ -354,7 +354,7 @@
       "2022-09-13": 174,
       "2022-09-12": 339,
       "2022-09-11": 285,
-      "2022-09-10": 521
+      "2022-09-10": 508
     }
   },
   {
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-25": 479,
+      "2023-07-25": 495,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -904,7 +904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-25": 479,
+      "2023-07-25": 495,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -1645,14 +1645,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.49%",
+    "uptimeYear": "49.48%",
     "time": 3479,
     "timeDay": 874,
     "timeWeek": 839,
     "timeMonth": 859,
     "timeYear": 3844,
     "dailyMinutesDown": {
-      "2023-07-25": 479,
+      "2023-07-25": 495,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -1889,7 +1889,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-25": 479,
+      "2023-07-25": 495,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
