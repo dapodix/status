@@ -208,7 +208,7 @@
     "slug": "info-gtk",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "96.04%",
+    "uptimeDay": "96.49%",
     "uptimeWeek": "47.89%",
     "uptimeMonth": "87.38%",
     "uptimeYear": "95.99%",
@@ -283,19 +283,19 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
-    "uptime": "97.02%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "80.44%",
+    "status": "down",
+    "uptime": "97.03%",
+    "uptimeDay": "86.26%",
+    "uptimeWeek": "80.50%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "92.04%",
-    "time": 3433,
+    "time": 3436,
     "timeDay": 3099,
     "timeWeek": 3587,
     "timeMonth": 2907,
     "timeYear": 3573,
     "dailyMinutesDown": {
-      "2023-07-26": 122,
+      "2023-07-26": 123,
       "2023-07-25": 225,
       "2023-07-24": 182,
       "2023-07-20": 341,
@@ -356,7 +356,7 @@
       "2022-09-13": 174,
       "2022-09-12": 339,
       "2022-09-11": 285,
-      "2022-09-10": 184
+      "2022-09-10": 153
     }
   },
   {
@@ -424,7 +424,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-26": 336,
+      "2023-07-26": 343,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -906,7 +906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-26": 336,
+      "2023-07-26": 343,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -1654,7 +1654,7 @@
     "timeMonth": 854,
     "timeYear": 3843,
     "dailyMinutesDown": {
-      "2023-07-26": 337,
+      "2023-07-26": 343,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
@@ -1892,7 +1892,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-26": 337,
+      "2023-07-26": 343,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
