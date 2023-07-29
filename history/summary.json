@@ -4,19 +4,19 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/dapo.kemdikbud.go.id.ico",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "88.47%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "88.44%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "99.08%",
-    "time": 4438,
+    "time": 4441,
     "timeDay": 9103,
     "timeWeek": 11528,
     "timeMonth": 11934,
     "timeYear": 4906,
     "dailyMinutesDown": {
-      "2023-07-29": 6,
+      "2023-07-29": 9,
       "2023-07-28": 186,
       "2023-07-27": 208,
       "2023-07-26": 254,
@@ -75,7 +75,7 @@
       "2022-12-21": 21,
       "2022-12-19": 6,
       "2022-11-09": 357,
-      "2022-11-07": 33
+      "2022-11-07": 28
     }
   },
   {
@@ -83,18 +83,19 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sp.datadik.kemdikbud.go.id.ico",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "96.85%",
-    "time": 3828,
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "96.86%",
+    "time": 3827,
     "timeDay": 1141,
     "timeWeek": 1013,
     "timeMonth": 1091,
     "timeYear": 3801,
     "dailyMinutesDown": {
+      "2023-07-29": 2,
       "2023-07-28": 5,
       "2023-07-12": 162,
       "2023-06-21": 17,
@@ -138,7 +139,7 @@
       "2022-08-15": 439,
       "2022-08-14": 246,
       "2022-08-13": 249,
-      "2022-08-12": 277
+      "2022-08-12": 246
     }
   },
   {
@@ -208,18 +209,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "65.06%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "65.41%",
     "uptimeMonth": "85.66%",
-    "uptimeYear": "95.85%",
-    "time": 5129,
+    "uptimeYear": "95.86%",
+    "time": 5134,
     "timeDay": 1351,
     "timeWeek": 1346,
     "timeMonth": 1336,
     "timeYear": 5701,
     "dailyMinutesDown": {
+      "2023-07-29": 2,
       "2023-07-28": 4,
       "2023-07-27": 101,
       "2023-07-26": 648,
@@ -277,8 +279,7 @@
       "2023-01-25": 4,
       "2023-01-24": 11,
       "2022-12-21": 20,
-      "2022-12-16": 270,
-      "2022-12-15": 53
+      "2022-12-16": 270
     }
   },
   {
@@ -286,18 +287,19 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "97.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.76%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "92.75%",
     "uptimeMonth": "93.29%",
-    "uptimeYear": "92.08%",
-    "time": 3365,
+    "uptimeYear": "92.09%",
+    "time": 3367,
     "timeDay": 1777,
     "timeWeek": 3668,
     "timeMonth": 3089,
     "timeYear": 3567,
     "dailyMinutesDown": {
+      "2023-07-29": 1,
       "2023-07-28": 73,
       "2023-07-27": 106,
       "2023-07-26": 146,
@@ -360,7 +362,7 @@
       "2022-09-14": 298,
       "2022-09-13": 174,
       "2022-09-12": 339,
-      "2022-09-11": 21
+      "2022-09-11": 15
     }
   },
   {
@@ -429,7 +431,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 1248,
+      "2023-07-29": 1285,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -911,7 +913,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 1248,
+      "2023-07-29": 1285,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -1661,7 +1663,7 @@
     "timeMonth": 859,
     "timeYear": 3843,
     "dailyMinutesDown": {
-      "2023-07-29": 1249,
+      "2023-07-29": 1285,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
@@ -1902,7 +1904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-29": 1249,
+      "2023-07-29": 1285,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
