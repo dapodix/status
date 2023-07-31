@@ -6,9 +6,9 @@
     "slug": "dapo-kemdikbud",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "86.90%",
+    "uptimeDay": "86.44%",
     "uptimeWeek": "88.72%",
-    "uptimeMonth": "92.09%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "99.11%",
     "time": 4452,
     "timeDay": 2533,
@@ -16,7 +16,7 @@
     "timeMonth": 11514,
     "timeYear": 4895,
     "dailyMinutesDown": {
-      "2023-07-31": 178,
+      "2023-07-31": 185,
       "2023-07-30": 10,
       "2023-07-29": 22,
       "2023-07-28": 186,
@@ -290,19 +290,19 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
-    "uptime": "97.12%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "93.19%",
+    "status": "down",
+    "uptime": "97.13%",
+    "uptimeDay": "95.27%",
+    "uptimeWeek": "93.24%",
     "uptimeMonth": "93.15%",
-    "uptimeYear": "92.26%",
-    "time": 3366,
+    "uptimeYear": "92.28%",
+    "time": 3367,
     "timeDay": 1804,
     "timeWeek": 3169,
     "timeMonth": 2998,
     "timeYear": 3528,
     "dailyMinutesDown": {
-      "2023-07-31": 60,
+      "2023-07-31": 61,
       "2023-07-30": 7,
       "2023-07-29": 9,
       "2023-07-28": 73,
@@ -361,8 +361,7 @@
       "2022-10-05": 1440,
       "2022-10-04": 1440,
       "2022-10-03": 1438,
-      "2022-09-19": 92,
-      "2022-09-16": 92
+      "2022-09-19": 92
     }
   },
   {
@@ -432,7 +431,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 292,
+      "2023-07-31": 298,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -914,7 +913,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 292,
+      "2023-07-31": 299,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -1664,7 +1663,7 @@
     "timeMonth": 868,
     "timeYear": 3843,
     "dailyMinutesDown": {
-      "2023-07-31": 292,
+      "2023-07-31": 299,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -1907,7 +1906,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 292,
+      "2023-07-31": 299,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
