@@ -4,19 +4,19 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/dapo.kemdikbud.go.id.ico",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "92.39%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "92.50%",
     "uptimeMonth": "89.89%",
-    "uptimeYear": "98.95%",
-    "time": 4666,
+    "uptimeYear": "98.96%",
+    "time": 4669,
     "timeDay": 13485,
     "timeWeek": 11706,
     "timeMonth": 12025,
     "timeYear": 5018,
     "dailyMinutesDown": {
-      "2023-08-08": 5,
+      "2023-08-08": 6,
       "2023-08-04": 50,
       "2023-08-02": 437,
       "2023-08-01": 447,
@@ -73,7 +73,7 @@
       "2023-04-05": 11,
       "2023-03-21": 25,
       "2023-03-17": 6,
-      "2023-02-23": 49
+      "2023-02-23": 39
     }
   },
   {
@@ -292,7 +292,7 @@
     "status": "up",
     "uptime": "98.14%",
     "uptimeDay": "99.62%",
-    "uptimeWeek": "98.06%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "92.39%",
     "uptimeYear": "94.96%",
     "time": 3507,
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 220,
+      "2023-08-08": 232,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -893,7 +893,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 220,
+      "2023-08-08": 232,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -1637,7 +1637,7 @@
     "timeMonth": 866,
     "timeYear": 3851,
     "dailyMinutesDown": {
-      "2023-08-08": 220,
+      "2023-08-08": 232,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
@@ -1888,7 +1888,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 220,
+      "2023-08-08": 232,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
       "2023-08-05": 1440,
