@@ -82,10 +82,10 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sp.datadik.kemdikbud.go.id.ico",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "96.84%",
     "time": 3815,
@@ -94,6 +94,7 @@
     "timeMonth": 1098,
     "timeYear": 3381,
     "dailyMinutesDown": {
+      "2023-08-11": 1,
       "2023-08-09": 16,
       "2023-08-08": 79,
       "2023-08-07": 5,
@@ -142,7 +143,7 @@
       "2022-08-15": 439,
       "2022-08-14": 246,
       "2022-08-13": 249,
-      "2022-08-12": 206
+      "2022-08-12": 201
     }
   },
   {
@@ -413,7 +414,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 70,
+      "2023-08-11": 87,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -896,7 +897,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 71,
+      "2023-08-11": 87,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -1630,14 +1631,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.91%",
+    "uptimeYear": "44.90%",
     "time": 3353,
     "timeDay": 752,
     "timeWeek": 852,
     "timeMonth": 870,
     "timeYear": 3854,
     "dailyMinutesDown": {
-      "2023-08-11": 71,
+      "2023-08-11": 87,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -1891,7 +1892,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 71,
+      "2023-08-11": 87,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
