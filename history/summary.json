@@ -84,11 +84,11 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sp.datadik.kemdikbud.go.id.ico",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "87.27%",
+    "uptimeDay": "87.22%",
     "uptimeWeek": "91.34%",
-    "uptimeMonth": "97.66%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "99.81%",
     "time": 2987,
     "timeDay": 828,
@@ -96,7 +96,7 @@
     "timeMonth": 1097,
     "timeYear": 2244,
     "dailyMinutesDown": {
-      "2023-08-18": 176,
+      "2023-08-18": 177,
       "2023-08-17": 147,
       "2023-08-16": 207,
       "2023-08-15": 317,
@@ -104,8 +104,7 @@
       "2023-08-11": 40,
       "2023-08-09": 16,
       "2023-08-08": 79,
-      "2023-08-07": 5,
-      "2023-07-31": 11
+      "2023-08-07": 5
     }
   },
   {
@@ -256,7 +255,7 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.41%",
-    "uptimeMonth": "92.61%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "99.17%",
     "time": 3483,
     "timeDay": 1464,
@@ -358,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-18": 1287,
+      "2023-08-18": 1298,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -841,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-18": 1287,
+      "2023-08-18": 1298,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1568,14 +1567,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.76%",
+    "uptimeYear": "42.75%",
     "time": 3296,
     "timeDay": 806,
     "timeWeek": 1757,
     "timeMonth": 1055,
     "timeYear": 3885,
     "dailyMinutesDown": {
-      "2023-08-18": 1288,
+      "2023-08-18": 1299,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
@@ -1836,7 +1835,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-18": 1288,
+      "2023-08-18": 1299,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
