@@ -250,19 +250,19 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "95.22%",
+    "uptimeDay": "95.12%",
     "uptimeWeek": "94.24%",
-    "uptimeMonth": "97.06%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.75%",
     "time": 3381,
     "timeDay": 1626,
-    "timeWeek": 2177,
+    "timeWeek": 2185,
     "timeMonth": 3299,
     "timeYear": 3505,
     "dailyMinutesDown": {
-      "2023-08-30": 5,
+      "2023-08-30": 6,
       "2023-08-29": 123,
       "2023-08-28": 133,
       "2023-08-25": 65,
@@ -283,7 +283,7 @@
       "2023-07-31": 147,
       "2023-07-30": 7,
       "2023-07-29": 9,
-      "2023-07-28": 34
+      "2023-07-28": 26
     }
   },
   {
@@ -295,7 +295,7 @@
     "uptime": "97.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.51%",
+    "uptimeMonth": "74.49%",
     "uptimeYear": "95.18%",
     "time": 2011,
     "timeDay": 0,
@@ -303,7 +303,7 @@
     "timeMonth": 1065,
     "timeYear": 2217,
     "dailyMinutesDown": {
-      "2023-08-30": 156,
+      "2023-08-30": 163,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 156,
+      "2023-08-30": 163,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -845,7 +845,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 156,
+      "2023-08-30": 163,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -1220,7 +1220,7 @@
     "status": "up",
     "uptime": "95.32%",
     "uptimeDay": "98.02%",
-    "uptimeWeek": "97.39%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "87.17%",
     "time": 4267,
@@ -1566,7 +1566,7 @@
     "timeMonth": 1133,
     "timeYear": 3900,
     "dailyMinutesDown": {
-      "2023-08-30": 157,
+      "2023-08-30": 164,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -1839,7 +1839,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-30": 157,
+      "2023-08-30": 164,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
