@@ -168,18 +168,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "95.89%",
     "time": 5101,
-    "timeDay": 1454,
-    "timeWeek": 1550,
-    "timeMonth": 1512,
-    "timeYear": 5460,
+    "timeDay": 1654,
+    "timeWeek": 1584,
+    "timeMonth": 1518,
+    "timeYear": 5455,
     "dailyMinutesDown": {
+      "2023-09-12": 2,
       "2023-09-11": 4,
       "2023-09-04": 34,
       "2023-09-01": 48,
@@ -243,7 +244,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1155,
-      "2023-02-23": 24
+      "2023-02-23": 19
     }
   },
   {
@@ -287,7 +288,7 @@
     "uptime": "96.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "31.07%",
+    "uptimeMonth": "31.05%",
     "uptimeYear": "91.60%",
     "time": 2032,
     "timeDay": 0,
@@ -295,7 +296,7 @@
     "timeMonth": 1093,
     "timeYear": 2184,
     "dailyMinutesDown": {
-      "2023-09-12": 467,
+      "2023-09-12": 473,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -365,7 +366,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 467,
+      "2023-09-12": 473,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -850,7 +851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 467,
+      "2023-09-12": 473,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -1560,7 +1561,7 @@
     "timeMonth": 1145,
     "timeYear": 3915,
     "dailyMinutesDown": {
-      "2023-09-12": 467,
+      "2023-09-12": 473,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -1846,7 +1847,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 467,
+      "2023-09-12": 473,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
