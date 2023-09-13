@@ -170,17 +170,18 @@
     "slug": "info-gtk",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "43.82%",
-    "uptimeWeek": "91.93%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "96.86%",
+    "uptimeDay": "38.60%",
+    "uptimeWeek": "91.19%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "96.85%",
     "time": 4809,
     "timeDay": 1458,
     "timeWeek": 1494,
     "timeMonth": 1507,
     "timeYear": 5402,
     "dailyMinutesDown": {
-      "2023-09-12": 809,
+      "2023-09-13": 74,
+      "2023-09-12": 810,
       "2023-09-11": 4,
       "2023-09-04": 34,
       "2023-09-01": 48,
@@ -248,7 +249,7 @@
     "slug": "portal-bos",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "89.12%",
+    "uptimeDay": "91.70%",
     "uptimeWeek": "94.06%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.79%",
@@ -282,15 +283,16 @@
     "uptime": "96.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.85%",
-    "uptimeYear": "91.42%",
+    "uptimeMonth": "28.68%",
+    "uptimeYear": "91.40%",
     "time": 2034,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1099,
     "timeYear": 2188,
     "dailyMinutesDown": {
-      "2023-09-12": 1439,
+      "2023-09-13": 74,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -349,7 +351,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pemetaanmutu.paud-dikmas.kemdikbud.go.id.ico",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "29.04%",
+    "uptime": "29.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -360,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 1439,
+      "2023-09-13": 74,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -723,8 +726,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -834,7 +836,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalptk.data.kemdikbud.go.id.ico",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "36.06%",
+    "uptime": "36.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -845,7 +847,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-12": 1439,
+      "2023-09-13": 74,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -1208,8 +1211,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -1218,7 +1220,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalpd.data.kemdikbud.go.id.ico",
     "slug": "verval-pd",
     "status": "up",
-    "uptime": "95.38%",
+    "uptime": "95.39%",
     "uptimeDay": "99.63%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "98.81%",
@@ -1317,7 +1319,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "46.35%",
+    "uptimeYear": "46.36%",
     "time": 1939,
     "timeDay": 1555,
     "timeWeek": 1788,
@@ -1535,8 +1537,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -1549,13 +1550,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.88%",
+    "uptimeYear": "35.86%",
     "time": 3197,
     "timeDay": 1002,
     "timeWeek": 949,
     "timeMonth": 964,
     "timeYear": 3916,
     "dailyMinutesDown": {
+      "2023-09-13": 75,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -1842,6 +1844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2023-09-13": 75,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -2205,8 +2208,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
