@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "98.99%",
-    "time": 4993,
-    "timeDay": 2848,
-    "timeWeek": 2678,
-    "timeMonth": 2820,
-    "timeYear": 4788,
+    "time": 4992,
+    "timeDay": 2450,
+    "timeWeek": 2609,
+    "timeMonth": 2801,
+    "timeYear": 4782,
     "dailyMinutesDown": {
       "2023-10-26": 6,
       "2023-10-09": 5,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.83%",
-    "time": 2233,
-    "timeDay": 1019,
-    "timeWeek": 1151,
-    "timeMonth": 1571,
-    "timeYear": 1691,
+    "time": 2231,
+    "timeDay": 1122,
+    "timeWeek": 1131,
+    "timeMonth": 1567,
+    "timeYear": 1684,
     "dailyMinutesDown": {
       "2023-10-09": 5,
       "2023-09-19": 11,
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.70%",
-    "time": 3209,
-    "timeDay": 1464,
-    "timeWeek": 1480,
-    "timeMonth": 1672,
-    "timeYear": 2832,
+    "time": 3206,
+    "timeDay": 1810,
+    "timeWeek": 1525,
+    "timeMonth": 1682,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2023-10-09": 4,
       "2023-09-19": 10,
@@ -148,8 +148,7 @@
       "2023-01-30": 15,
       "2023-01-25": 15,
       "2022-12-21": 20,
-      "2022-11-09": 357,
-      "2022-11-07": 24
+      "2022-11-09": 357
     }
   },
   {
@@ -163,11 +162,11 @@
     "uptimeWeek": "99.87%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "97.55%",
-    "time": 4101,
-    "timeDay": 1592,
-    "timeWeek": 1397,
-    "timeMonth": 1667,
-    "timeYear": 3215,
+    "time": 4087,
+    "timeDay": 1207,
+    "timeWeek": 1350,
+    "timeMonth": 1663,
+    "timeYear": 3210,
     "dailyMinutesDown": {
       "2023-11-06": 13,
       "2023-10-30": 180,
@@ -233,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.48%",
-    "time": 3496,
-    "timeDay": 2074,
-    "timeWeek": 1856,
-    "timeMonth": 1983,
-    "timeYear": 3340,
+    "time": 3493,
+    "timeDay": 1678,
+    "timeWeek": 1799,
+    "timeMonth": 1977,
+    "timeYear": 3335,
     "dailyMinutesDown": {
       "2023-10-30": 5,
       "2023-10-25": 491,
@@ -263,18 +262,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmp.kemdikbud.go.id.ico",
     "slug": "pmp-dikdasmen",
     "status": "down",
-    "uptime": "91.73%",
+    "uptime": "91.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.99%",
-    "time": 2148,
+    "uptimeYear": "78.81%",
+    "time": 2150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1838,
+    "timeYear": 1830,
     "dailyMinutesDown": {
-      "2023-11-06": 563,
+      "2023-11-07": 79,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -366,8 +366,7 @@
       "2023-01-30": 14,
       "2023-01-25": 3,
       "2022-12-21": 19,
-      "2022-11-09": 363,
-      "2022-11-07": 93
+      "2022-11-09": 363
     }
   },
   {
@@ -376,7 +375,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pemetaanmutu.paud-dikmas.kemdikbud.go.id.ico",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "27.57%",
+    "uptime": "27.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -387,7 +386,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 563,
+      "2023-11-07": 79,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -750,8 +750,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   },
   {
@@ -760,16 +759,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalsp.data.kemdikbud.go.id.ico",
     "slug": "verval-sp",
     "status": "up",
-    "uptime": "94.87%",
+    "uptime": "94.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "84.83%",
-    "time": 4819,
-    "timeDay": 4012,
-    "timeWeek": 3067,
-    "timeMonth": 3816,
-    "timeYear": 4884,
+    "time": 4820,
+    "timeDay": 3239,
+    "timeWeek": 3044,
+    "timeMonth": 3815,
+    "timeYear": 4880,
     "dailyMinutesDown": {
       "2023-10-13": 4,
       "2023-10-09": 6,
@@ -862,7 +861,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalptk.data.kemdikbud.go.id.ico",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "34.22%",
+    "uptime": "34.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -873,7 +872,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 563,
+      "2023-11-07": 79,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -1236,8 +1236,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   },
   {
@@ -1251,11 +1250,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.16%",
-    "time": 4056,
-    "timeDay": 2192,
-    "timeWeek": 1852,
-    "timeMonth": 2165,
-    "timeYear": 3641,
+    "time": 4053,
+    "timeDay": 1945,
+    "timeWeek": 1795,
+    "timeMonth": 2159,
+    "timeYear": 3617,
     "dailyMinutesDown": {
       "2023-09-13": 5,
       "2023-09-12": 5,
@@ -1342,16 +1341,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
     "status": "up",
-    "uptime": "77.44%",
+    "uptime": "77.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.25%",
+    "uptimeYear": "61.43%",
     "time": 1858,
-    "timeDay": 1408,
-    "timeWeek": 1323,
-    "timeMonth": 1345,
-    "timeYear": 1853,
+    "timeDay": 1310,
+    "timeWeek": 1298,
+    "timeMonth": 1324,
+    "timeYear": 1851,
     "dailyMinutesDown": {
       "2023-09-01": 54,
       "2023-08-20": 130,
@@ -1509,8 +1508,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   },
   {
@@ -1519,18 +1517,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "73.04%",
+    "uptime": "72.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.96%",
-    "time": 2904,
-    "timeDay": 1018,
-    "timeWeek": 900,
-    "timeMonth": 962,
-    "timeYear": 2391,
+    "uptimeYear": "21.78%",
+    "time": 2901,
+    "timeDay": 916,
+    "timeWeek": 884,
+    "timeMonth": 959,
+    "timeYear": 2393,
     "dailyMinutesDown": {
-      "2023-11-06": 564,
+      "2023-11-07": 79,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -1830,8 +1829,7 @@
       "2022-11-11": 61,
       "2022-11-10": 343,
       "2022-11-09": 604,
-      "2022-11-08": 272,
-      "2022-11-07": 143
+      "2022-11-08": 272
     }
   },
   {
@@ -1840,7 +1838,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.paud-dikmas.kemdikbud.go.id.ico",
     "slug": "simdak-paud",
     "status": "down",
-    "uptime": "23.12%",
+    "uptime": "23.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1851,7 +1849,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-06": 564,
+      "2023-11-07": 79,
+      "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 1440,
@@ -2214,8 +2213,7 @@
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
-      "2022-11-08": 1440,
-      "2022-11-07": 1440
+      "2022-11-08": 1440
     }
   },
   {
@@ -2224,15 +2222,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/banpaudpnf.kemdikbud.go.id.ico",
     "slug": "ban-paud-and-pnf",
     "status": "up",
-    "uptime": "88.05%",
+    "uptime": "88.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "98.83%",
     "time": 2375,
-    "timeDay": 1357,
-    "timeWeek": 1281,
-    "timeMonth": 1497,
+    "timeDay": 1238,
+    "timeWeek": 1226,
+    "timeMonth": 1493,
     "timeYear": 2032,
     "dailyMinutesDown": {
       "2023-10-27": 5,
@@ -2254,8 +2252,7 @@
       "2022-11-13": 1336,
       "2022-11-12": 973,
       "2022-11-09": 1425,
-      "2022-11-08": 1440,
-      "2022-11-07": 109
+      "2022-11-08": 1440
     }
   },
   {
@@ -2264,15 +2261,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/banpaudpnf.kemdikbud.go.id.ico",
     "slug": "banpaud-and-pnf-sispena",
     "status": "up",
-    "uptime": "87.70%",
+    "uptime": "87.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.48%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "98.61%",
     "time": 760,
-    "timeDay": 738,
-    "timeWeek": 680,
-    "timeMonth": 808,
+    "timeDay": 684,
+    "timeWeek": 673,
+    "timeMonth": 818,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2023-10-08": 101,
@@ -2295,8 +2292,7 @@
       "2022-11-18": 48,
       "2022-11-13": 1336,
       "2022-11-12": 973,
-      "2022-11-09": 358,
-      "2022-11-07": 51
+      "2022-11-09": 358
     }
   },
   {
@@ -2305,16 +2301,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn-dapodik.kemdikbud.go.id.ico",
     "slug": "cdn-dapodik",
     "status": "up",
-    "uptime": "95.03%",
+    "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
-    "time": 2015,
-    "timeDay": 1005,
-    "timeWeek": 902,
-    "timeMonth": 1218,
-    "timeYear": 1749,
+    "time": 2007,
+    "timeDay": 915,
+    "timeWeek": 884,
+    "timeMonth": 1195,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2023-08-20": 128,
       "2023-06-21": 32,
@@ -2332,8 +2328,7 @@
       "2023-02-13": 47,
       "2023-01-25": 10,
       "2022-11-09": 1419,
-      "2022-11-08": 1440,
-      "2022-11-07": 111
+      "2022-11-08": 1440
     }
   }
 ]
