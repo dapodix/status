@@ -1,7 +1,7 @@
 url: https://bos.kemdikbud.go.id/
-status: up
-code: 200
-responseTime: 1991
-lastUpdated: 2023-12-06T23:18:28.447Z
+status: down
+code: 500
+responseTime: 1066
+lastUpdated: 2023-12-07T09:59:38.128Z
 startTime: 2020-11-21T13:46:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
