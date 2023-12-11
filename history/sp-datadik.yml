@@ -1,7 +1,7 @@
 url: https://sp.datadik.kemdikbud.go.id/
-status: down
-code: 503
-responseTime: 1280
-lastUpdated: 2023-12-11T13:45:24.165Z
+status: up
+code: 200
+responseTime: 1029
+lastUpdated: 2023-12-11T23:18:10.102Z
 startTime: 2020-11-21T13:46:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
