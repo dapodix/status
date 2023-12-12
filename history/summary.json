@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dapo.kemdikbud.go.id.ico",
     "slug": "dapo-kemdikbud",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "77.11%",
     "uptimeMonth": "94.58%",
@@ -14,7 +14,7 @@
     "timeDay": 2780,
     "timeWeek": 4455,
     "timeMonth": 3194,
-    "timeYear": 4666,
+    "timeYear": 4664,
     "dailyMinutesDown": {
       "2023-12-10": 935,
       "2023-12-09": 804,
@@ -97,7 +97,7 @@
     "timeDay": 1155,
     "timeWeek": 2310,
     "timeMonth": 1573,
-    "timeYear": 1559,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2023-12-11": 573,
       "2023-12-10": 934,
@@ -179,7 +179,7 @@
     "timeDay": 1402,
     "timeWeek": 2246,
     "timeMonth": 1622,
-    "timeYear": 2633,
+    "timeYear": 2635,
     "dailyMinutesDown": {
       "2023-12-11": 1121,
       "2023-12-10": 921,
@@ -251,7 +251,7 @@
     "timeDay": 1655,
     "timeWeek": 1753,
     "timeMonth": 1865,
-    "timeYear": 3167,
+    "timeYear": 3168,
     "dailyMinutesDown": {
       "2023-12-10": 920,
       "2023-12-09": 802,
@@ -281,18 +281,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmp.kemdikbud.go.id.ico",
     "slug": "pmp-dikdasmen",
     "status": "down",
-    "uptime": "88.81%",
+    "uptime": "88.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.33%",
+    "uptimeYear": "69.30%",
     "time": 2212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1662,
+    "timeYear": 1665,
     "dailyMinutesDown": {
-      "2023-12-11": 1400,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -438,7 +439,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 1400,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -801,8 +803,7 @@
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
-      "2022-12-13": 1440,
-      "2022-12-12": 1440
+      "2022-12-13": 1440
     }
   },
   {
@@ -812,7 +813,7 @@
     "slug": "verval-sp",
     "status": "up",
     "uptime": "94.86%",
-    "uptimeDay": "52.42%",
+    "uptimeDay": "60.71%",
     "uptimeWeek": "71.56%",
     "uptimeMonth": "93.42%",
     "uptimeYear": "84.29%",
@@ -820,7 +821,7 @@
     "timeDay": 3074,
     "timeWeek": 4208,
     "timeMonth": 3277,
-    "timeYear": 4724,
+    "timeYear": 4727,
     "dailyMinutesDown": {
       "2023-12-11": 645,
       "2023-12-10": 1422,
@@ -927,7 +928,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 1400,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -1290,8 +1292,7 @@
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
-      "2022-12-13": 1440,
-      "2022-12-12": 1440
+      "2022-12-13": 1440
     }
   },
   {
@@ -1309,7 +1310,7 @@
     "timeDay": 3259,
     "timeWeek": 3453,
     "timeMonth": 2408,
-    "timeYear": 3391,
+    "timeYear": 3393,
     "dailyMinutesDown": {
       "2023-12-11": 4,
       "2023-12-10": 944,
@@ -1398,7 +1399,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
     "status": "up",
-    "uptime": "78.05%",
+    "uptime": "78.06%",
     "uptimeDay": "99.74%",
     "uptimeWeek": "82.69%",
     "uptimeMonth": "96.02%",
@@ -1407,7 +1408,7 @@
     "timeDay": 1465,
     "timeWeek": 1908,
     "timeMonth": 1551,
-    "timeYear": 1812,
+    "timeYear": 1799,
     "dailyMinutesDown": {
       "2023-12-11": 4,
       "2023-12-10": 944,
@@ -1545,18 +1546,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "70.69%",
+    "uptime": "70.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.49%",
+    "uptimeYear": "12.47%",
     "time": 2239,
     "timeDay": 908,
     "timeWeek": 915,
     "timeMonth": 980,
-    "timeYear": 1401,
+    "timeYear": 1402,
     "dailyMinutesDown": {
-      "2023-12-11": 1400,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -1902,7 +1904,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 1400,
+      "2023-12-12": 79,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -2265,8 +2268,7 @@
       "2022-12-16": 1440,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
-      "2022-12-13": 1440,
-      "2022-12-12": 1440
+      "2022-12-13": 1440
     }
   },
   {
@@ -2276,7 +2278,7 @@
     "slug": "ban-paud-and-pnf",
     "status": "up",
     "uptime": "88.25%",
-    "uptimeDay": "51.80%",
+    "uptimeDay": "60.08%",
     "uptimeWeek": "71.29%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "99.30%",
@@ -2284,7 +2286,7 @@
     "timeDay": 1398,
     "timeWeek": 3585,
     "timeMonth": 2113,
-    "timeYear": 1898,
+    "timeYear": 1900,
     "dailyMinutesDown": {
       "2023-12-11": 654,
       "2023-12-10": 1403,
@@ -2314,7 +2316,7 @@
     "slug": "banpaud-and-pnf-sispena",
     "status": "up",
     "uptime": "87.92%",
-    "uptimeDay": "52.85%",
+    "uptimeDay": "61.13%",
     "uptimeWeek": "71.64%",
     "uptimeMonth": "93.47%",
     "uptimeYear": "98.59%",
@@ -2354,7 +2356,7 @@
     "slug": "cdn-dapodik",
     "status": "up",
     "uptime": "95.02%",
-    "uptimeDay": "53.39%",
+    "uptimeDay": "61.67%",
     "uptimeWeek": "72.04%",
     "uptimeMonth": "93.57%",
     "uptimeYear": "98.54%",
@@ -2362,7 +2364,7 @@
     "timeDay": 1044,
     "timeWeek": 1842,
     "timeMonth": 1245,
-    "timeYear": 1539,
+    "timeYear": 1530,
     "dailyMinutesDown": {
       "2023-12-11": 631,
       "2023-12-10": 1395,
