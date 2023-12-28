@@ -241,19 +241,19 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.14%",
     "uptimeMonth": "95.84%",
-    "uptimeYear": "99.16%",
-    "time": 3327,
-    "timeDay": 1422,
-    "timeWeek": 1520,
-    "timeMonth": 1680,
-    "timeYear": 3081,
+    "uptimeYear": "99.17%",
+    "time": 3320,
+    "timeDay": 1388,
+    "timeWeek": 1502,
+    "timeMonth": 1668,
+    "timeYear": 3078,
     "dailyMinutesDown": {
-      "2023-12-28": 44,
+      "2023-12-28": 45,
       "2023-12-27": 41,
       "2023-12-10": 920,
       "2023-12-09": 802,
@@ -272,7 +272,7 @@
       "2023-09-14": 46,
       "2023-09-13": 113,
       "2023-09-12": 155,
-      "2023-09-11": 76
+      "2023-09-11": 70
     }
   },
   {
@@ -292,7 +292,7 @@
     "timeMonth": 0,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2023-12-28": 1424,
+      "2023-12-28": 1429,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-28": 1424,
+      "2023-12-28": 1429,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -939,7 +939,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-28": 1424,
+      "2023-12-28": 1429,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -1560,7 +1560,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "69.62%",
+    "uptime": "69.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1571,7 +1571,7 @@
     "timeMonth": 965,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2023-12-28": 1424,
+      "2023-12-28": 1430,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -1925,7 +1925,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-28": 1424,
+      "2023-12-28": 1430,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
