@@ -4,19 +4,19 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/dapo.kemdikbud.go.id.ico",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "94.51%",
     "uptimeYear": "98.61%",
-    "time": 4662,
-    "timeDay": 2025,
-    "timeWeek": 2293,
-    "timeMonth": 3201,
-    "timeYear": 4585,
+    "time": 4654,
+    "timeDay": 1895,
+    "timeWeek": 2200,
+    "timeMonth": 3163,
+    "timeYear": 4579,
     "dailyMinutesDown": {
-      "2023-12-29": 14,
+      "2023-12-29": 15,
       "2023-12-28": 18,
       "2023-12-20": 34,
       "2023-12-16": 11,
@@ -77,8 +77,7 @@
       "2023-05-27": 25,
       "2023-05-26": 5,
       "2023-05-25": 6,
-      "2023-05-24": 10,
-      "2023-05-23": 6
+      "2023-05-24": 10
     }
   },
   {
@@ -283,7 +282,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmp.kemdikbud.go.id.ico",
     "slug": "pmp-dikdasmen",
     "status": "down",
-    "uptime": "87.46%",
+    "uptime": "87.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -294,7 +293,7 @@
     "timeMonth": 0,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2023-12-29": 326,
+      "2023-12-29": 358,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -457,7 +456,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-29": 326,
+      "2023-12-29": 358,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -942,7 +941,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-29": 326,
+      "2023-12-29": 359,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -1574,7 +1573,7 @@
     "timeMonth": 965,
     "timeYear": 1410,
     "dailyMinutesDown": {
-      "2023-12-29": 326,
+      "2023-12-29": 359,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
@@ -1928,7 +1927,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-29": 326,
+      "2023-12-29": 359,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
