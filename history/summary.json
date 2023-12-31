@@ -73,19 +73,19 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sp.datadik.kemdikbud.go.id.ico",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "98.28%",
+    "uptimeDay": "87.87%",
+    "uptimeWeek": "98.27%",
     "uptimeMonth": "93.91%",
     "uptimeYear": "99.35%",
-    "time": 1840,
+    "time": 1835,
     "timeDay": 1028,
     "timeWeek": 1049,
     "timeMonth": 1417,
     "timeYear": 1491,
     "dailyMinutesDown": {
-      "2023-12-31": 172,
+      "2023-12-31": 173,
       "2023-12-16": 10,
       "2023-12-11": 573,
       "2023-12-10": 934,
@@ -99,7 +99,7 @@
       "2023-08-21": 208,
       "2023-08-20": 140,
       "2023-08-19": 183,
-      "2023-08-18": 172
+      "2023-08-18": 145
     }
   },
   {
@@ -156,19 +156,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "98.61%",
+    "uptimeDay": "90.17%",
+    "uptimeWeek": "98.60%",
     "uptimeMonth": "87.63%",
     "uptimeYear": "98.12%",
-    "time": 3333,
+    "time": 3314,
     "timeDay": 1311,
     "timeWeek": 1410,
     "timeMonth": 1568,
     "timeYear": 2514,
     "dailyMinutesDown": {
-      "2023-12-31": 142,
+      "2023-12-31": 143,
       "2023-12-24": 114,
       "2023-12-23": 584,
       "2023-12-19": 209,
@@ -212,8 +212,7 @@
       "2023-08-16": 11,
       "2023-08-14": 5,
       "2023-08-12": 19,
-      "2023-07-29": 9,
-      "2023-07-28": 4
+      "2023-07-29": 9
     }
   },
   {
@@ -273,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2023-12-31": 714,
+      "2023-12-31": 742,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -438,7 +437,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 715,
+      "2023-12-31": 742,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -922,7 +921,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 715,
+      "2023-12-31": 742,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1555,7 +1554,7 @@
     "timeMonth": 961,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2023-12-31": 715,
+      "2023-12-31": 742,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1909,7 +1908,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 715,
+      "2023-12-31": 742,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
