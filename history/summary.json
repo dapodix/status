@@ -4,19 +4,19 @@
     "url": "https://dapo.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/dapo.kemdikbud.go.id.ico",
     "slug": "dapo-kemdikbud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "98.70%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "98.69%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "98.60%",
-    "time": 4591,
+    "time": 4588,
     "timeDay": 2233,
     "timeWeek": 2149,
     "timeMonth": 2964,
     "timeYear": 4525,
     "dailyMinutesDown": {
-      "2023-12-31": 26,
+      "2023-12-31": 27,
       "2023-12-30": 15,
       "2023-12-29": 72,
       "2023-12-28": 18,
@@ -75,7 +75,7 @@
       "2023-06-14": 6,
       "2023-06-12": 17,
       "2023-06-01": 9,
-      "2023-05-29": 11
+      "2023-05-29": 5
     }
   },
   {
@@ -83,19 +83,19 @@
     "url": "https://sp.datadik.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/sp.datadik.kemdikbud.go.id.ico",
     "slug": "sp-datadik",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "94.25%",
     "uptimeYear": "99.36%",
-    "time": 1920,
+    "time": 1922,
     "timeDay": 1004,
     "timeWeek": 1068,
     "timeMonth": 1532,
     "timeYear": 1500,
     "dailyMinutesDown": {
-      "2023-12-31": 25,
+      "2023-12-31": 26,
       "2023-12-16": 10,
       "2023-12-11": 573,
       "2023-12-10": 934,
@@ -110,7 +110,7 @@
       "2023-08-20": 140,
       "2023-08-19": 183,
       "2023-08-18": 203,
-      "2023-08-17": 46
+      "2023-08-17": 41
     }
   },
   {
@@ -167,19 +167,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "87.92%",
-    "uptimeYear": "96.94%",
-    "time": 3467,
+    "uptimeYear": "96.95%",
+    "time": 3461,
     "timeDay": 1355,
     "timeWeek": 1570,
     "timeMonth": 1643,
     "timeYear": 2537,
     "dailyMinutesDown": {
-      "2023-12-31": 12,
+      "2023-12-31": 13,
       "2023-12-24": 114,
       "2023-12-23": 584,
       "2023-12-19": 209,
@@ -234,7 +234,7 @@
       "2023-07-21": 1236,
       "2023-07-18": 5,
       "2023-07-04": 269,
-      "2023-06-21": 27
+      "2023-06-21": 16
     }
   },
   {
@@ -242,19 +242,19 @@
     "url": "https://bos.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/bos.kemdikbud.go.id.ico",
     "slug": "portal-bos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "99.16%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.17%",
     "time": 3290,
     "timeDay": 1765,
     "timeWeek": 1456,
     "timeMonth": 1620,
     "timeYear": 3058,
     "dailyMinutesDown": {
-      "2023-12-31": 12,
+      "2023-12-31": 13,
       "2023-12-29": 20,
       "2023-12-28": 55,
       "2023-12-27": 41,
@@ -275,7 +275,7 @@
       "2023-09-14": 46,
       "2023-09-13": 113,
       "2023-09-12": 155,
-      "2023-09-11": 40
+      "2023-09-11": 25
     }
   },
   {
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 1609,
     "dailyMinutesDown": {
-      "2023-12-31": 336,
+      "2023-12-31": 342,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -460,7 +460,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 336,
+      "2023-12-31": 342,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -832,19 +832,19 @@
     "url": "http://vervalsp.data.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/vervalsp.data.kemdikbud.go.id.ico",
     "slug": "verval-sp",
-    "status": "up",
+    "status": "down",
     "uptime": "95.33%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "92.58%",
-    "uptimeYear": "85.49%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "92.57%",
+    "uptimeYear": "85.50%",
     "time": 4694,
     "timeDay": 2683,
     "timeWeek": 2980,
     "timeMonth": 3757,
     "timeYear": 4527,
     "dailyMinutesDown": {
-      "2023-12-31": 6,
+      "2023-12-31": 7,
       "2023-12-17": 217,
       "2023-12-16": 163,
       "2023-12-11": 645,
@@ -926,7 +926,7 @@
       "2023-01-29": 12,
       "2023-01-28": 168,
       "2023-01-27": 236,
-      "2023-01-26": 91
+      "2023-01-26": 49
     }
   },
   {
@@ -946,7 +946,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 337,
+      "2023-12-31": 342,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1318,19 +1318,19 @@
     "url": "http://vervalpd.data.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/vervalpd.data.kemdikbud.go.id.ico",
     "slug": "verval-pd",
-    "status": "up",
+    "status": "down",
     "uptime": "95.73%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "86.84%",
-    "time": 3534,
+    "time": 3537,
     "timeDay": 1789,
     "timeWeek": 1916,
     "timeMonth": 2321,
     "timeYear": 3233,
     "dailyMinutesDown": {
-      "2023-12-31": 6,
+      "2023-12-31": 7,
       "2023-12-24": 15,
       "2023-12-23": 24,
       "2023-12-16": 144,
@@ -1412,7 +1412,7 @@
       "2023-02-02": 283,
       "2023-02-01": 356,
       "2023-01-31": 363,
-      "2023-01-30": 44
+      "2023-01-30": 34
     }
   },
   {
@@ -1420,11 +1420,11 @@
     "url": "https://vervalponsel.data.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
-    "status": "up",
+    "status": "down",
     "uptime": "78.42%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "95.65%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "95.64%",
     "uptimeYear": "69.99%",
     "time": 1798,
     "timeDay": 1615,
@@ -1432,7 +1432,7 @@
     "timeMonth": 1633,
     "timeYear": 1719,
     "dailyMinutesDown": {
-      "2023-12-31": 6,
+      "2023-12-31": 7,
       "2023-12-16": 156,
       "2023-12-11": 4,
       "2023-12-10": 944,
@@ -1580,7 +1580,7 @@
     "timeMonth": 961,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2023-12-31": 337,
+      "2023-12-31": 342,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -1934,7 +1934,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-31": 337,
+      "2023-12-31": 342,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
