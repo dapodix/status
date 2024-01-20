@@ -1,7 +1,7 @@
 url: http://vervalpd.data.kemdikbud.go.id/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-20T10:11:20.377Z
+status: up
+code: 200
+responseTime: 1755
+lastUpdated: 2024-01-20T10:25:50.290Z
 startTime: 2020-12-01T14:27:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
