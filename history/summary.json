@@ -254,18 +254,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmp.kemdikbud.go.id.ico",
     "slug": "pmp-dikdasmen",
     "status": "down",
-    "uptime": "85.66%",
+    "uptime": "85.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.09%",
+    "uptimeYear": "58.08%",
     "time": 2242,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1530,
     "dailyMinutesDown": {
-      "2024-01-21": 1439,
+      "2024-01-22": 68,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -451,7 +452,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-21": 1439,
+      "2024-01-22": 68,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -814,8 +816,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -925,7 +926,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalptk.data.kemdikbud.go.id.ico",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "31.94%",
+    "uptime": "31.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -936,7 +937,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-21": 1439,
+      "2024-01-22": 68,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -1299,8 +1301,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -1415,7 +1416,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "98.39%",
-    "uptimeYear": "70.23%",
+    "uptimeYear": "70.25%",
     "time": 1894,
     "timeDay": 1938,
     "timeWeek": 3750,
@@ -1540,8 +1541,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -1550,7 +1550,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "68.16%",
+    "uptime": "68.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1561,6 +1561,7 @@
     "timeMonth": 1004,
     "timeYear": 1406,
     "dailyMinutesDown": {
+      "2024-01-22": 68,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -1894,8 +1895,7 @@
       "2023-02-13": 88,
       "2023-01-25": 7,
       "2023-01-24": 1281,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -1915,6 +1915,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2024-01-22": 68,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -2278,8 +2279,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -2287,18 +2287,19 @@
     "url": "https://banpaudpnf.kemdikbud.go.id/",
     "icon": "https://icons.duckduckgo.com/ip3/banpaudpnf.kemdikbud.go.id.ico",
     "slug": "ban-paud-and-pnf",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "4.85%",
-    "uptimeWeek": "78.77%",
-    "uptimeMonth": "94.81%",
-    "uptimeYear": "98.83%",
-    "time": 2314,
-    "timeDay": 1328,
-    "timeWeek": 3031,
-    "timeMonth": 2017,
-    "timeYear": 1778,
+    "status": "up",
+    "uptime": "99.10%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "78.10%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "98.82%",
+    "time": 2309,
+    "timeDay": 1319,
+    "timeWeek": 2962,
+    "timeMonth": 2006,
+    "timeYear": 1776,
     "dailyMinutesDown": {
+      "2024-01-22": 67,
       "2024-01-21": 1370,
       "2024-01-20": 192,
       "2024-01-19": 461,
@@ -2339,18 +2340,19 @@
     "url": "https://banpaudpnf.kemdikbud.go.id/sispena/",
     "icon": "https://icons.duckduckgo.com/ip3/banpaudpnf.kemdikbud.go.id.ico",
     "slug": "banpaud-and-pnf-sispena",
-    "status": "down",
-    "uptime": "88.29%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "92.61%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.41%",
+    "status": "up",
+    "uptime": "88.28%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "98.39%",
     "time": 1005,
-    "timeDay": 5784,
-    "timeWeek": 4965,
-    "timeMonth": 2841,
-    "timeYear": 1066,
+    "timeDay": 4523,
+    "timeWeek": 4837,
+    "timeMonth": 2810,
+    "timeYear": 1065,
     "dailyMinutesDown": {
+      "2024-01-22": 68,
       "2024-01-21": 17,
       "2024-01-20": 239,
       "2024-01-19": 407,
