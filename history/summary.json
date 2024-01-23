@@ -215,7 +215,7 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.01%",
+    "uptimeWeek": "96.17%",
     "uptimeMonth": "98.40%",
     "uptimeYear": "99.13%",
     "time": 3244,
@@ -254,18 +254,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmp.kemdikbud.go.id.ico",
     "slug": "pmp-dikdasmen",
     "status": "down",
-    "uptime": "85.59%",
+    "uptime": "85.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.82%",
+    "uptimeYear": "57.80%",
     "time": 2242,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1532,
     "dailyMinutesDown": {
-      "2024-01-22": 1400,
+      "2024-01-23": 81,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -441,7 +442,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pemetaanmutu.paud-dikmas.kemdikbud.go.id.ico",
     "slug": "pemetaan-mutu-paud",
     "status": "down",
-    "uptime": "25.73%",
+    "uptime": "25.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -452,7 +453,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 1400,
+      "2024-01-23": 81,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -815,8 +817,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -937,7 +938,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 1400,
+      "2024-01-23": 81,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -1300,8 +1302,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -1416,7 +1417,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.07%",
     "uptimeMonth": "98.39%",
-    "uptimeYear": "70.50%",
+    "uptimeYear": "70.52%",
     "time": 1894,
     "timeDay": 1614,
     "timeWeek": 3734,
@@ -1540,8 +1541,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -1550,7 +1550,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "68.10%",
+    "uptime": "68.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1561,7 +1561,8 @@
     "timeMonth": 950,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2024-01-22": 1400,
+      "2024-01-23": 81,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -1894,8 +1895,7 @@
       "2023-02-14": 7,
       "2023-02-13": 88,
       "2023-01-25": 7,
-      "2023-01-24": 1281,
-      "2023-01-23": 1440
+      "2023-01-24": 1281
     }
   },
   {
@@ -1915,7 +1915,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-22": 1401,
+      "2024-01-23": 81,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -2278,8 +2279,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -2289,12 +2289,12 @@
     "slug": "ban-paud-and-pnf",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "90.74%",
+    "uptimeDay": "98.16%",
     "uptimeWeek": "77.83%",
     "uptimeMonth": "94.60%",
     "uptimeYear": "98.81%",
     "time": 2308,
-    "timeDay": 1297,
+    "timeDay": 1292,
     "timeWeek": 2835,
     "timeMonth": 1985,
     "timeYear": 1766,
@@ -2342,12 +2342,12 @@
     "slug": "banpaud-and-pnf-sispena",
     "status": "up",
     "uptime": "88.30%",
-    "uptimeDay": "93.37%",
+    "uptimeDay": "99.28%",
     "uptimeWeek": "91.83%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.39%",
     "time": 991,
-    "timeDay": 2881,
+    "timeDay": 705,
     "timeWeek": 4491,
     "timeMonth": 2709,
     "timeYear": 1062,
