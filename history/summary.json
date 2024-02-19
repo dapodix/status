@@ -10,11 +10,11 @@
     "uptimeWeek": "94.92%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.30%",
-    "time": 4282,
-    "timeDay": 2628,
+    "time": 4280,
+    "timeDay": 2539,
     "timeWeek": 3437,
-    "timeMonth": 3261,
-    "timeYear": 4317,
+    "timeMonth": 3253,
+    "timeYear": 4318,
     "dailyMinutesDown": {
       "2024-02-18": 4,
       "2024-02-17": 11,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.31%",
-    "time": 1894,
-    "timeDay": 1111,
-    "timeWeek": 1138,
-    "timeMonth": 2098,
-    "timeYear": 1388,
+    "time": 1890,
+    "timeDay": 1167,
+    "timeWeek": 1170,
+    "timeMonth": 2100,
+    "timeYear": 1382,
     "dailyMinutesDown": {
       "2024-01-25": 21,
       "2024-01-20": 35,
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.28%",
-    "time": 2478,
-    "timeDay": 1212,
-    "timeWeek": 1276,
-    "timeMonth": 1680,
-    "timeYear": 2019,
+    "time": 2470,
+    "timeDay": 1302,
+    "timeWeek": 1329,
+    "timeMonth": 1679,
+    "timeYear": 2017,
     "dailyMinutesDown": {
       "2024-01-25": 21,
       "2024-01-19": 288,
@@ -153,14 +153,14 @@
     "slug": "info-gtk",
     "status": "up",
     "uptime": "98.15%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "35.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "37.35%",
     "uptimeMonth": "48.83%",
     "uptimeYear": "94.06%",
-    "time": 2497,
-    "timeDay": 1642,
-    "timeWeek": 1376,
-    "timeMonth": 1842,
+    "time": 2491,
+    "timeDay": 1315,
+    "timeWeek": 1389,
+    "timeMonth": 1841,
     "timeYear": 2144,
     "dailyMinutesDown": {
       "2024-02-17": 396,
@@ -227,9 +227,9 @@
     "uptimeWeek": "94.75%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.03%",
-    "time": 3166,
-    "timeDay": 2034,
-    "timeWeek": 3499,
+    "time": 3147,
+    "timeDay": 1894,
+    "timeWeek": 3520,
     "timeMonth": 3202,
     "timeYear": 2937,
     "dailyMinutesDown": {
@@ -266,18 +266,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmp.kemdikbud.go.id.ico",
     "slug": "pmp-dikdasmen",
     "status": "down",
-    "uptime": "83.64%",
+    "uptime": "83.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.44%",
+    "uptimeYear": "50.41%",
     "time": 2182,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1329,
+    "timeYear": 1311,
     "dailyMinutesDown": {
-      "2024-02-18": 1357,
+      "2024-02-19": 75,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -488,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 1357,
+      "2024-02-19": 75,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -851,8 +853,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -866,11 +867,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "86.00%",
-    "time": 4146,
-    "timeDay": 2775,
-    "timeWeek": 2841,
-    "timeMonth": 3796,
-    "timeYear": 3559,
+    "time": 4132,
+    "timeDay": 3753,
+    "timeWeek": 3003,
+    "timeMonth": 3797,
+    "timeYear": 3550,
     "dailyMinutesDown": {
       "2024-02-02": 4,
       "2024-01-20": 252,
@@ -947,8 +948,7 @@
       "2023-03-03": 26,
       "2023-02-27": 16,
       "2023-02-23": 73,
-      "2023-02-20": 334,
-      "2023-02-19": 374
+      "2023-02-20": 334
     }
   },
   {
@@ -957,7 +957,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalptk.data.kemdikbud.go.id.ico",
     "slug": "verval-ptk",
     "status": "down",
-    "uptime": "31.18%",
+    "uptime": "31.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -968,7 +968,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 1357,
+      "2024-02-19": 75,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1331,8 +1332,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -1346,11 +1346,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "87.08%",
-    "time": 2994,
-    "timeDay": 2406,
+    "time": 2993,
+    "timeDay": 2080,
     "timeWeek": 2070,
-    "timeMonth": 2054,
-    "timeYear": 2764,
+    "timeMonth": 2047,
+    "timeYear": 2765,
     "dailyMinutesDown": {
       "2024-01-20": 252,
       "2024-01-19": 367,
@@ -1429,8 +1429,7 @@
       "2023-03-25": 372,
       "2023-03-16": 11,
       "2023-02-23": 29,
-      "2023-02-20": 334,
-      "2023-02-19": 373
+      "2023-02-20": 334
     }
   },
   {
@@ -1439,15 +1438,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vervalponsel.data.kemdikbud.go.id.ico",
     "slug": "verval-ponsel",
     "status": "up",
-    "uptime": "79.31%",
+    "uptime": "79.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "77.89%",
+    "uptimeYear": "77.92%",
     "time": 1881,
-    "timeDay": 1814,
-    "timeWeek": 1701,
-    "timeMonth": 2558,
+    "timeDay": 1738,
+    "timeWeek": 1679,
+    "timeMonth": 2554,
     "timeYear": 1641,
     "dailyMinutesDown": {
       "2024-01-20": 241,
@@ -1540,8 +1539,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -1550,18 +1548,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "verval-ijazah",
     "status": "down",
-    "uptime": "66.54%",
+    "uptime": "66.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.08%",
-    "time": 1347,
-    "timeDay": 985,
-    "timeWeek": 897,
+    "uptimeYear": "3.05%",
+    "time": 1349,
+    "timeDay": 1002,
+    "timeWeek": 932,
     "timeMonth": 915,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2024-02-18": 1357,
+      "2024-02-19": 75,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -1936,7 +1935,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-18": 1357,
+      "2024-02-19": 75,
+      "2024-02-18": 1440,
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
@@ -2299,8 +2299,7 @@
       "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
-      "2023-02-20": 1440,
-      "2023-02-19": 1440
+      "2023-02-20": 1440
     }
   },
   {
@@ -2314,11 +2313,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "94.60%",
     "uptimeYear": "98.79%",
-    "time": 2218,
-    "timeDay": 1968,
-    "timeWeek": 1450,
-    "timeMonth": 2358,
-    "timeYear": 1796,
+    "time": 2211,
+    "timeDay": 1563,
+    "timeWeek": 1517,
+    "timeMonth": 2362,
+    "timeYear": 1788,
     "dailyMinutesDown": {
       "2024-02-16": 5,
       "2024-02-08": 36,
@@ -2372,10 +2371,10 @@
     "uptimeMonth": "97.83%",
     "uptimeYear": "98.38%",
     "time": 988,
-    "timeDay": 737,
-    "timeWeek": 741,
+    "timeDay": 726,
+    "timeWeek": 702,
     "timeMonth": 1881,
-    "timeYear": 1060,
+    "timeYear": 1061,
     "dailyMinutesDown": {
       "2024-02-08": 18,
       "2024-02-07": 9,
@@ -2424,12 +2423,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
-    "uptimeYear": "98.94%",
-    "time": 1602,
-    "timeDay": 1037,
-    "timeWeek": 926,
-    "timeMonth": 1429,
-    "timeYear": 1239,
+    "uptimeYear": "98.97%",
+    "time": 1588,
+    "timeDay": 975,
+    "timeWeek": 959,
+    "timeMonth": 1428,
+    "timeYear": 1238,
     "dailyMinutesDown": {
       "2024-01-20": 196,
       "2024-01-19": 350,
@@ -2444,8 +2443,7 @@
       "2023-04-11": 11,
       "2023-03-16": 14,
       "2023-02-23": 58,
-      "2023-02-20": 186,
-      "2023-02-19": 1440
+      "2023-02-20": 186
     }
   }
 ]
