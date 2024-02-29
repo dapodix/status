@@ -138,19 +138,19 @@
     "url": "https://info.gtk.kemdikbud.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/info.gtk.kemdikbud.go.id.ico",
     "slug": "info-gtk",
-    "status": "up",
-    "uptime": "97.48%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "25.49%",
-    "uptimeMonth": "22.58%",
-    "uptimeYear": "91.83%",
+    "status": "down",
+    "uptime": "97.49%",
+    "uptimeDay": "0.74%",
+    "uptimeWeek": "25.58%",
+    "uptimeMonth": "22.57%",
+    "uptimeYear": "91.86%",
     "time": 2422,
-    "timeDay": 1087,
-    "timeWeek": 1677,
-    "timeMonth": 1520,
-    "timeYear": 2117,
+    "timeDay": 1210,
+    "timeWeek": 1663,
+    "timeMonth": 1519,
+    "timeYear": 2116,
     "dailyMinutesDown": {
-      "2024-02-29": 288,
+      "2024-02-29": 289,
       "2024-02-28": 1440,
       "2024-02-27": 1234,
       "2024-02-26": 282,
@@ -210,7 +210,7 @@
       "2023-09-20": 11,
       "2023-09-19": 14,
       "2023-09-16": 60,
-      "2023-09-15": 606
+      "2023-09-15": 456
     }
   },
   {
@@ -277,7 +277,7 @@
     "timeMonth": 0,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2024-02-29": 290,
+      "2024-02-29": 300,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 290,
+      "2024-02-29": 300,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -974,7 +974,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 290,
+      "2024-02-29": 300,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -1446,7 +1446,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.42%",
+    "uptimeYear": "80.43%",
     "time": 1878,
     "timeDay": 1525,
     "timeWeek": 1729,
@@ -1553,7 +1553,7 @@
     "timeMonth": 907,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2024-02-29": 290,
+      "2024-02-29": 301,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -1937,7 +1937,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-29": 290,
+      "2024-02-29": 301,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
